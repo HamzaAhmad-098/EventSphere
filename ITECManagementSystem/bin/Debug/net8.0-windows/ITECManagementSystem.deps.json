@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITECManagementSystem/1.0.0": {
+        "runtime": {
+          "ITECManagementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITECManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

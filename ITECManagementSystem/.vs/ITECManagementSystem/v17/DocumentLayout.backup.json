@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd semester projects\\ITECManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\registeration_feetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:registeration_feetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\registeration_feetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:registeration_feetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\registeration_feetracking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:registeration_feetracking.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\dutyassighment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dutyassighment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\financialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:financialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\financialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:financialmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\dutyassighment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dutyassighment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\editionmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:editionmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\2nd semester projects\\itecmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\2nd semester projects\\ITECManagementSystem\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registeration_feeTracking.Designer.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.Designer.cs",
+              "RelativeDocumentMoniker": "Registeration_feeTracking.Designer.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.Designer.cs",
+              "RelativeToolTip": "Registeration_feeTracking.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:00:00.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registeration_feeTracking.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.cs",
+              "RelativeDocumentMoniker": "Registeration_feeTracking.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.cs",
+              "RelativeToolTip": "Registeration_feeTracking.cs",
+              "ViewState": "AgIAABEAAAAAzczMzEwewBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:48:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinancialManagement.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\FinancialManagement.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\FinancialManagement.cs",
+              "RelativeToolTip": "FinancialManagement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:59:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommitteManagment.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\CommitteManagment.cs",
+              "RelativeDocumentMoniker": "CommitteManagment.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\CommitteManagment.cs",
+              "RelativeToolTip": "CommitteManagment.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:50:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DutyAssighment.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\DutyAssighment.cs",
+              "RelativeDocumentMoniker": "DutyAssighment.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\DutyAssighment.cs",
+              "RelativeToolTip": "DutyAssighment.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:41:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommitteManagment.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\CommitteManagment.cs",
+              "RelativeDocumentMoniker": "CommitteManagment.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\CommitteManagment.cs [Design]",
+              "RelativeToolTip": "CommitteManagment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T17:14:57.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventManagement.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\EventManagement.cs",
+              "RelativeDocumentMoniker": "EventManagement.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\EventManagement.cs",
+              "RelativeToolTip": "EventManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:16:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventManagement.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\EventManagement.cs",
+              "RelativeDocumentMoniker": "EventManagement.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\EventManagement.cs [Design]",
+              "RelativeToolTip": "EventManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:15:44.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\SignUp.cs",
+              "RelativeToolTip": "SignUp.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4vw8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:01:01.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:13:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:12:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:06:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:57:11.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportGeneration.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\ReportGeneration.cs",
+              "RelativeDocumentMoniker": "ReportGeneration.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\ReportGeneration.cs [Design]",
+              "RelativeToolTip": "ReportGeneration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:19:47.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultManagement.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\ResultManagement.cs",
+              "RelativeDocumentMoniker": "ResultManagement.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\ResultManagement.cs [Design]",
+              "RelativeToolTip": "ResultManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:19:17.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VenuAllocation.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\VenuAllocation.cs",
+              "RelativeDocumentMoniker": "VenuAllocation.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\VenuAllocation.cs [Design]",
+              "RelativeToolTip": "VenuAllocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:18:49.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinancialManagement.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\FinancialManagement.cs",
+              "RelativeDocumentMoniker": "FinancialManagement.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\FinancialManagement.cs [Design]",
+              "RelativeToolTip": "FinancialManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:18:22.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DutyAssighment.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\DutyAssighment.cs",
+              "RelativeDocumentMoniker": "DutyAssighment.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\DutyAssighment.cs [Design]",
+              "RelativeToolTip": "DutyAssighment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:17:55.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registeration_feeTracking.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.cs",
+              "RelativeDocumentMoniker": "Registeration_feeTracking.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Registeration_feeTracking.cs [Design]",
+              "RelativeToolTip": "Registeration_feeTracking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:16:56.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditionManagment.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\EditionManagment.cs",
+              "RelativeDocumentMoniker": "EditionManagment.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\EditionManagment.cs [Design]",
+              "RelativeToolTip": "EditionManagment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:13:33.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA3wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:16:13.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2nd semester projects\\ITECManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\2nd semester projects\\ITECManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T03:14:18.334Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
