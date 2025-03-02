@@ -27,3 +27,32 @@ D:\2nd semester projects\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManag
 D:\2nd semester projects\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Login.resources
 D:\2nd semester projects\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.SignUp.resources
 D:\2nd semester projects\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.CommitteManagment.resources
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\ITECManagementSystem.exe
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\ITECManagementSystem.deps.json
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\ITECManagementSystem.runtimeconfig.json
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\ITECManagementSystem.dll
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\ITECManagementSystem.pdb
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.CommitteManagment.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.DutyAssighment.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.EditionManagment.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.EventManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.FinancialManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Form1.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Login.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Properties.Resources.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Registeration_feeTracking.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.ReportGeneration.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.ResultManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.SignUp.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.VenuAllocation.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.csproj.GenerateResource.cache
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.AssemblyInfoInputs.cache
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.AssemblyInfo.cs
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.csproj.CoreCompileInputs.cache
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.sourcelink.json
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.dll
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\refint\ITECManagementSystem.dll
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.pdb
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.genruntimeconfig.cache
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ref\ITECManagementSystem.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2nd semester projects\\ITECManagementSystem\\ITECManagementSystem.csproj",
+      "projectUniqueName": "D:\\DB\\ITECManagementSystem\\ITECManagementSystem.csproj",
       "projectName": "ITECManagementSystem",
-      "projectPath": "D:\\2nd semester projects\\ITECManagementSystem\\ITECManagementSystem.csproj",
+      "projectPath": "D:\\DB\\ITECManagementSystem\\ITECManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Hamza Jamil\\.nuget\\packages\\",
-      "outputPath": "D:\\2nd semester projects\\ITECManagementSystem\\obj\\",
+      "outputPath": "D:\\DB\\ITECManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
