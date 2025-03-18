@@ -24,8 +24,7 @@ namespace ITECManagementSystem
 
         private void button3_Click(object sender, EventArgs e)
         {
-            DutyAssighment dutyAssighment = new DutyAssighment();
-            dutyAssighment.Show();
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -53,8 +52,7 @@ namespace ITECManagementSystem
 
         private void BtnEventManagement_Click(object sender, EventArgs e)
         {
-            EventManagement eventManagement = new EventManagement();
-            eventManagement.Show();
+
         }
 
         private void BtnParticipantRegistrationFeeTracking_Click(object sender, EventArgs e)
@@ -100,7 +98,25 @@ namespace ITECManagementSystem
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
-            panel1.BackColor = Color.FromArgb(100,0,0,0);
+            panel1.BackColor = Color.FromArgb(100, 0, 0, 0);
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            memberAndRoleManagement roleManagement = new memberAndRoleManagement();
+            roleManagement.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FeeTrackingAdmin feeTracking = new FeeTrackingAdmin();
+            feeTracking.Show();
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            AddVenu venu = new AddVenu();
+            venu.Show();
         }
     }
 }

@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace ITECManagementSystem
 {
     public partial class Login : Form
     {
+        string connectionString = "server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;";
+
         public Login()
         {
             InitializeComponent();
@@ -93,21 +96,84 @@ namespace ITECManagementSystem
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(txtUsername.Text) || string.IsNullOrWhiteSpace(txtPassword.Text))
+            {
+                MessageBox.Show("Please enter both username and password.");
+                return;
+            }
 
-            string correctUsername = "admin";
-            string correctPassword = "123";
-            string enteredUsername = userName.Text;
-            string enteredPassword = password.Text;
-            if (enteredUsername == correctUsername && enteredPassword == correctPassword)
+            using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
-                this.Hide();
-                Form1 dashboard = new Form1();
-                dashboard.ShowDialog();
+                try
+                {
+                    conn.Open();
+                    string userQuery = @"
+                SELECT u.email, u.password_hash, r.role_name 
+                FROM users u 
+                INNER JOIN roles r ON u.role_id = r.role_id
+                WHERE u.username = @Username";
+
+                    MySqlCommand userCmd = new MySqlCommand(userQuery, conn);
+                    userCmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+
+                    using (MySqlDataReader reader = userCmd.ExecuteReader())
+                    {
+                        if (reader.Read()) 
+                        {
+                            string email = reader["email"].ToString();
+                            string dbPassword = reader["password_hash"].ToString();
+                            string dbRoleName = reader["role_name"].ToString();
+                            if (dbPassword != txtPassword.Text)
+                            {
+                                MessageBox.Show("Incorrect password.");
+                                return;
+                            }
+                            bool isAdmin = dbRoleName.Equals("admin", StringComparison.OrdinalIgnoreCase);
+
+                            reader.Close(); 
+                            string participantQuery = "SELECT participant_id FROM participants WHERE email = @Email";
+                            MySqlCommand participantCmd = new MySqlCommand(participantQuery, conn);
+                            participantCmd.Parameters.AddWithValue("@Email", email);
+
+                            object participantResult = participantCmd.ExecuteScalar();
+                            if (participantResult != null)
+                            {
+                                int participantID = Convert.ToInt32(participantResult);
+                                SessionData.CurrentParticipantID = participantID;
+                                MessageBox.Show("Login Successful! You are enrolled in an event.");
+                            }
+                            else
+                            {
+                                MessageBox.Show("Login Successful! But you are not participating in any event.");
+                            }
+                            if (isAdmin)
+                            {
+                                Form1 adminForm = new Form1();
+                                adminForm.Show();
+                            }
+                            else
+                            {
+                                userDashboard userForm = new userDashboard();
+                                userForm.Show();
+                            }
+                            this.Hide();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Username not found.");
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error: " + ex.Message);
+                }
             }
-            else
-            {
-                MessageBox.Show("Invalid username or password. Please try again.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+        }
+
+        public static class SessionData
+        {
+            public static int CurrentParticipantID { get; set; }
         }
 
         private void password_TextChanged(object sender, EventArgs e)

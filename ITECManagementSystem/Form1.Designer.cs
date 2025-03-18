@@ -43,6 +43,9 @@
             timer1 = new System.Windows.Forms.Timer(components);
             timer2 = new System.Windows.Forms.Timer(components);
             panel1 = new Panel();
+            button1 = new Button();
+            button2 = new Button();
+            button3 = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -173,6 +176,7 @@
             // panel1
             // 
             panel1.BackColor = Color.Transparent;
+            panel1.Controls.Add(button1);
             panel1.Controls.Add(BtnItecEditionManagement);
             panel1.Controls.Add(BtnAutomatedReportGeneration);
             panel1.Controls.Add(BtnEventResultsManagement);
@@ -184,9 +188,42 @@
             panel1.Controls.Add(BtnDutyAssignmentTracking);
             panel1.Location = new Point(30, 227);
             panel1.Name = "panel1";
-            panel1.Size = new Size(318, 358);
+            panel1.Size = new Size(322, 400);
             panel1.TabIndex = 10;
             panel1.Paint += panel1_Paint;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe UI", 10F);
+            button1.Location = new Point(20, 357);
+            button1.Name = "button1";
+            button1.Size = new Size(277, 32);
+            button1.TabIndex = 10;
+            button1.Text = "Members Role management";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_1;
+            // 
+            // button2
+            // 
+            button2.Font = new Font("Segoe UI", 10F);
+            button2.Location = new Point(392, 353);
+            button2.Name = "button2";
+            button2.Size = new Size(199, 30);
+            button2.TabIndex = 11;
+            button2.Text = "Fees tracking";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.Font = new Font("Segoe UI", 10F);
+            button3.Location = new Point(392, 394);
+            button3.Name = "button3";
+            button3.Size = new Size(199, 32);
+            button3.TabIndex = 11;
+            button3.Text = "Venue Management";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
             // Form1
             // 
@@ -195,6 +232,8 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(629, 664);
+            Controls.Add(button3);
+            Controls.Add(button2);
             Controls.Add(panel1);
             Controls.Add(label1);
             Font = new Font("Segoe UI", 25F);
@@ -224,5 +263,8 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Timer timer2;
         private Panel panel1;
+        private Button button1;
+        private Button button2;
+        private Button button3;
     }
 }

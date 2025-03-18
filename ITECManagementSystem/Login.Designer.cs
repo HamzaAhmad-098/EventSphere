@@ -37,8 +37,8 @@
             label4 = new Label();
             label3 = new Label();
             label1 = new Label();
-            password = new TextBox();
-            userName = new TextBox();
+            txtPassword = new TextBox();
+            txtUsername = new TextBox();
             label2 = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -52,8 +52,8 @@
             panel1.Controls.Add(label4);
             panel1.Controls.Add(label3);
             panel1.Controls.Add(label1);
-            panel1.Controls.Add(password);
-            panel1.Controls.Add(userName);
+            panel1.Controls.Add(txtPassword);
+            panel1.Controls.Add(txtUsername);
             panel1.Location = new Point(160, 66);
             panel1.Name = "panel1";
             panel1.Size = new Size(372, 304);
@@ -139,24 +139,24 @@
             label1.Text = "User Name ";
             label1.Click += label1_Click_1;
             // 
-            // password
+            // txtPassword
             // 
-            password.Location = new Point(83, 142);
-            password.Name = "password";
-            password.PasswordChar = '*';
-            password.Size = new Size(178, 23);
-            password.TabIndex = 1;
-            password.UseSystemPasswordChar = true;
-            password.TextChanged += password_TextChanged;
+            txtPassword.Location = new Point(83, 142);
+            txtPassword.Name = "txtPassword";
+            txtPassword.PasswordChar = '*';
+            txtPassword.Size = new Size(178, 23);
+            txtPassword.TabIndex = 1;
+            txtPassword.UseSystemPasswordChar = true;
+            txtPassword.TextChanged += password_TextChanged;
             // 
-            // userName
+            // txtUsername
             // 
-            userName.Location = new Point(83, 78);
-            userName.Name = "userName";
-            userName.ShortcutsEnabled = false;
-            userName.Size = new Size(178, 23);
-            userName.TabIndex = 0;
-            userName.TextChanged += userName_TextChanged;
+            txtUsername.Location = new Point(83, 78);
+            txtUsername.Name = "txtUsername";
+            txtUsername.ShortcutsEnabled = false;
+            txtUsername.Size = new Size(178, 23);
+            txtUsername.TabIndex = 0;
+            txtUsername.TextChanged += userName_TextChanged;
             // 
             // label2
             // 
@@ -194,8 +194,8 @@
 
         private Panel panel1;
         private Label label2;
-        private TextBox password;
-        private TextBox userName;
+        private TextBox txtPassword;
+        private TextBox txtUsername;
         private Label label3;
         private Label label1;
         private Label label4;

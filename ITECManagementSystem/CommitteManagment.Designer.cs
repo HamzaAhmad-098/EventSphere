@@ -29,96 +29,96 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CommitteManagment));
-            dataGridView1 = new DataGridView();
-            label1 = new Label();
-            textBox1 = new TextBox();
-            label2 = new Label();
-            textBox2 = new TextBox();
-            button1 = new Button();
-            button2 = new Button();
             button3 = new Button();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            button2 = new Button();
+            button1 = new Button();
+            dgvCommittees = new DataGridView();
+            cmbItechEdition = new ComboBox();
+            txtCommitteeName = new TextBox();
+            label2 = new Label();
+            label1 = new Label();
+            ((System.ComponentModel.ISupportInitialize)dgvCommittees).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // button3
             // 
-            dataGridView1.BackgroundColor = SystemColors.ActiveCaption;
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Dock = DockStyle.Top;
-            dataGridView1.Location = new Point(0, 0);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(634, 91);
-            dataGridView1.TabIndex = 0;
+            button3.Font = new Font("Segoe UI", 12F);
+            button3.Location = new Point(420, 190);
+            button3.Name = "button3";
+            button3.Size = new Size(124, 32);
+            button3.TabIndex = 15;
+            button3.Text = "Delete Committe";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
-            // label1
+            // button2
             // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.Transparent;
-            label1.Font = new Font("Segoe UI", 15F);
-            label1.ForeColor = Color.Gold;
-            label1.Location = new Point(38, 164);
-            label1.Name = "label1";
-            label1.Size = new Size(156, 28);
-            label1.TabIndex = 1;
-            label1.Text = "Committe Name";
+            button2.Font = new Font("Segoe UI", 12F);
+            button2.Location = new Point(248, 190);
+            button2.Name = "button2";
+            button2.Size = new Size(103, 32);
+            button2.TabIndex = 14;
+            button2.Text = "Edit Commitee";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
-            // textBox1
+            // button1
             // 
-            textBox1.Location = new Point(38, 208);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 2;
+            button1.Font = new Font("Segoe UI", 12F);
+            button1.Location = new Point(59, 190);
+            button1.Name = "button1";
+            button1.Size = new Size(120, 32);
+            button1.TabIndex = 13;
+            button1.Text = "ADD Committe";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // dgvCommittees
+            // 
+            dgvCommittees.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dgvCommittees.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvCommittees.Location = new Point(0, 299);
+            dgvCommittees.Name = "dgvCommittees";
+            dgvCommittees.Size = new Size(635, 79);
+            dgvCommittees.TabIndex = 12;
+            dgvCommittees.CellContentClick += dgvCommittees_CellContentClick;
+            // 
+            // cmbItechEdition
+            // 
+            cmbItechEdition.FormattingEnabled = true;
+            cmbItechEdition.Items.AddRange(new object[] { "2021", "2022", "2023", "2024", "2025" });
+            cmbItechEdition.Location = new Point(43, 141);
+            cmbItechEdition.Name = "cmbItechEdition";
+            cmbItechEdition.Size = new Size(99, 23);
+            cmbItechEdition.TabIndex = 11;
+            cmbItechEdition.SelectedIndexChanged += cmbItechEdition_SelectedIndexChanged;
+            // 
+            // txtCommitteeName
+            // 
+            txtCommitteeName.Location = new Point(43, 68);
+            txtCommitteeName.Name = "txtCommitteeName";
+            txtCommitteeName.Size = new Size(78, 23);
+            txtCommitteeName.TabIndex = 10;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.BackColor = Color.Transparent;
-            label2.Font = new Font("Segoe UI", 15F);
-            label2.ForeColor = Color.Gold;
-            label2.Location = new Point(38, 240);
+            label2.Font = new Font("Segoe UI", 12F);
+            label2.Location = new Point(43, 105);
             label2.Name = "label2";
-            label2.Size = new Size(130, 28);
-            label2.TabIndex = 3;
-            label2.Text = "ITECH Edition";
-            label2.Click += label2_Click;
+            label2.Size = new Size(114, 21);
+            label2.TabIndex = 9;
+            label2.Text = "ITECH EDITION";
             // 
-            // textBox2
+            // label1
             // 
-            textBox2.Location = new Point(38, 282);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 4;
-            // 
-            // button1
-            // 
-            button1.Font = new Font("Segoe UI", 15F);
-            button1.Location = new Point(33, 330);
-            button1.Name = "button1";
-            button1.Size = new Size(161, 34);
-            button1.TabIndex = 5;
-            button1.Text = "ADD Commette";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            button2.Font = new Font("Segoe UI", 15F);
-            button2.Location = new Point(415, 330);
-            button2.Name = "button2";
-            button2.Size = new Size(188, 34);
-            button2.TabIndex = 6;
-            button2.Text = "DELETE Commette";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            button3.Font = new Font("Segoe UI", 15F);
-            button3.Location = new Point(228, 330);
-            button3.Name = "button3";
-            button3.Size = new Size(159, 34);
-            button3.TabIndex = 7;
-            button3.Text = "EDIT Commette";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 12F);
+            label1.Location = new Point(43, 32);
+            label1.Name = "label1";
+            label1.Size = new Size(125, 21);
+            label1.TabIndex = 8;
+            label1.Text = "Committe Name";
             // 
             // CommitteManagment
             // 
@@ -130,27 +130,28 @@
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
-            Controls.Add(textBox2);
+            Controls.Add(dgvCommittees);
+            Controls.Add(cmbItechEdition);
+            Controls.Add(txtCommitteeName);
             Controls.Add(label2);
-            Controls.Add(textBox1);
             Controls.Add(label1);
-            Controls.Add(dataGridView1);
             Name = "CommitteManagment";
             Text = "CommitteManagment";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            Load += CommitteManagment_Load;
+            ((System.ComponentModel.ISupportInitialize)dgvCommittees).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
-        private Label label1;
-        private TextBox textBox1;
-        private Label label2;
-        private TextBox textBox2;
-        private Button button1;
-        private Button button2;
         private Button button3;
+        private Button button2;
+        private Button button1;
+        private DataGridView dgvCommittees;
+        private ComboBox cmbItechEdition;
+        private TextBox txtCommitteeName;
+        private Label label2;
+        private Label label1;
     }
 }

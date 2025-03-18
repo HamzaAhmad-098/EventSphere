@@ -38,22 +38,24 @@
             label2 = new Label();
             textBox1 = new TextBox();
             label1 = new Label();
-            comboBox1 = new ComboBox();
             label5 = new Label();
             radioButton1 = new RadioButton();
             radioButton2 = new RadioButton();
-            checkedListBox1 = new CheckedListBox();
             label6 = new Label();
+            comboBox1 = new ComboBox();
+            comboBox3 = new ComboBox();
             label7 = new Label();
-            textBox4 = new TextBox();
-            label8 = new Label();
             comboBox2 = new ComboBox();
+            label8 = new Label();
+            textBox4 = new TextBox();
+            label9 = new Label();
+            textBox5 = new TextBox();
             SuspendLayout();
             // 
             // button3
             // 
             button3.Font = new Font("Segoe UI", 15F);
-            button3.Location = new Point(178, 702);
+            button3.Location = new Point(92, 383);
             button3.Name = "button3";
             button3.Size = new Size(121, 35);
             button3.TabIndex = 23;
@@ -64,7 +66,7 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 15F);
-            button1.Location = new Point(337, 702);
+            button1.Location = new Point(269, 383);
             button1.Name = "button1";
             button1.Size = new Size(123, 35);
             button1.TabIndex = 21;
@@ -77,7 +79,7 @@
             label4.AutoSize = true;
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Segoe UI", 15F);
-            label4.Location = new Point(19, 183);
+            label4.Location = new Point(282, 57);
             label4.Name = "label4";
             label4.Size = new Size(151, 28);
             label4.TabIndex = 19;
@@ -85,7 +87,7 @@
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(23, 145);
+            textBox3.Location = new Point(288, 320);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(153, 23);
             textBox3.TabIndex = 18;
@@ -95,7 +97,7 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Segoe UI", 15F);
-            label3.Location = new Point(21, 114);
+            label3.Location = new Point(282, 0);
             label3.Name = "label3";
             label3.Size = new Size(80, 28);
             label3.TabIndex = 17;
@@ -137,21 +139,12 @@
             label1.TabIndex = 13;
             label1.Text = "Name";
             // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Student", "", "Professional", "", "Guest ", "Speaker", "", "Judge" });
-            comboBox1.Location = new Point(23, 226);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(147, 23);
-            comboBox1.TabIndex = 24;
-            // 
             // label5
             // 
             label5.AutoSize = true;
             label5.BackColor = Color.Transparent;
             label5.Font = new Font("Segoe UI", 15F);
-            label5.Location = new Point(26, 265);
+            label5.Location = new Point(21, 137);
             label5.Name = "label5";
             label5.Size = new Size(163, 28);
             label5.TabIndex = 25;
@@ -161,7 +154,7 @@
             // 
             radioButton1.AutoSize = true;
             radioButton1.Font = new Font("Segoe UI", 12F);
-            radioButton1.Location = new Point(45, 309);
+            radioButton1.Location = new Point(45, 189);
             radioButton1.Name = "radioButton1";
             radioButton1.Size = new Size(87, 25);
             radioButton1.TabIndex = 26;
@@ -173,7 +166,7 @@
             // 
             radioButton2.AutoSize = true;
             radioButton2.Font = new Font("Segoe UI", 12F);
-            radioButton2.Location = new Point(45, 343);
+            radioButton2.Location = new Point(45, 220);
             radioButton2.Name = "radioButton2";
             radioButton2.Size = new Size(64, 25);
             radioButton2.TabIndex = 27;
@@ -181,62 +174,90 @@
             radioButton2.Text = "Team";
             radioButton2.UseVisualStyleBackColor = true;
             // 
-            // checkedListBox1
-            // 
-            checkedListBox1.FormattingEnabled = true;
-            checkedListBox1.Location = new Point(31, 424);
-            checkedListBox1.Name = "checkedListBox1";
-            checkedListBox1.Size = new Size(120, 94);
-            checkedListBox1.TabIndex = 28;
-            // 
             // label6
             // 
             label6.AutoSize = true;
             label6.BackColor = Color.Transparent;
             label6.Font = new Font("Segoe UI", 15F);
-            label6.Location = new Point(26, 380);
+            label6.Location = new Point(284, 137);
             label6.Name = "label6";
             label6.Size = new Size(145, 28);
             label6.TabIndex = 29;
             label6.Text = "Event Selection";
+            // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Student", "", "Professional", "", "Guest ", "Speaker", "", "Judge" });
+            comboBox1.Location = new Point(282, 99);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(147, 23);
+            comboBox1.TabIndex = 24;
+            // 
+            // comboBox3
+            // 
+            comboBox3.FormattingEnabled = true;
+            comboBox3.Items.AddRange(new object[] { "Student", "", "Professional", "", "Guest ", "Speaker", "", "Judge" });
+            comboBox3.Location = new Point(288, 177);
+            comboBox3.Name = "comboBox3";
+            comboBox3.Size = new Size(147, 23);
+            comboBox3.TabIndex = 34;
             // 
             // label7
             // 
             label7.AutoSize = true;
             label7.BackColor = Color.Transparent;
             label7.Font = new Font("Segoe UI", 15F);
-            label7.Location = new Point(31, 531);
+            label7.Location = new Point(288, 220);
             label7.Name = "label7";
-            label7.Size = new Size(148, 28);
-            label7.TabIndex = 30;
-            label7.Text = "Registration fee";
+            label7.Size = new Size(130, 28);
+            label7.TabIndex = 35;
+            label7.Text = "ITECH Edition";
             // 
-            // textBox4
+            // comboBox2
             // 
-            textBox4.Location = new Point(31, 573);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(153, 23);
-            textBox4.TabIndex = 31;
+            comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "2021", "2022", "2023", "2024", "2025" });
+            comboBox2.Location = new Point(288, 261);
+            comboBox2.Name = "comboBox2";
+            comboBox2.Size = new Size(147, 23);
+            comboBox2.TabIndex = 36;
             // 
             // label8
             // 
             label8.AutoSize = true;
             label8.BackColor = Color.Transparent;
             label8.Font = new Font("Segoe UI", 15F);
-            label8.Location = new Point(34, 615);
+            label8.Location = new Point(21, 276);
             label8.Name = "label8";
-            label8.Size = new Size(145, 28);
-            label8.TabIndex = 32;
-            label8.Text = "Payment Status";
+            label8.Size = new Size(148, 28);
+            label8.TabIndex = 37;
+            label8.Text = "Registration fee";
             // 
-            // comboBox2
+            // textBox4
             // 
-            comboBox2.FormattingEnabled = true;
-            comboBox2.Items.AddRange(new object[] { "Pending", "", "Paid", "", "Canceled" });
-            comboBox2.Location = new Point(34, 659);
-            comboBox2.Name = "comboBox2";
-            comboBox2.Size = new Size(121, 23);
-            comboBox2.TabIndex = 33;
+            textBox4.Location = new Point(21, 320);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(153, 23);
+            textBox4.TabIndex = 38;
+            // 
+            // label9
+            // 
+            label9.AutoSize = true;
+            label9.BackColor = Color.Transparent;
+            label9.Font = new Font("Segoe UI", 15F);
+            label9.Location = new Point(288, 287);
+            label9.Name = "label9";
+            label9.Size = new Size(83, 28);
+            label9.TabIndex = 39;
+            label9.Text = "Institute";
+            // 
+            // textBox5
+            // 
+            textBox5.Location = new Point(282, 31);
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(153, 23);
+            textBox5.TabIndex = 40;
             // 
             // Registeration_feeTracking
             // 
@@ -244,13 +265,15 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(686, 749);
-            Controls.Add(comboBox2);
-            Controls.Add(label8);
+            ClientSize = new Size(686, 446);
+            Controls.Add(textBox5);
+            Controls.Add(label9);
             Controls.Add(textBox4);
+            Controls.Add(label8);
+            Controls.Add(comboBox2);
             Controls.Add(label7);
+            Controls.Add(comboBox3);
             Controls.Add(label6);
-            Controls.Add(checkedListBox1);
             Controls.Add(radioButton2);
             Controls.Add(radioButton1);
             Controls.Add(label5);
@@ -266,6 +289,7 @@
             Controls.Add(label1);
             Name = "Registeration_feeTracking";
             Text = "Registeration_feeTracking";
+            Load += Registeration_feeTracking_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -281,15 +305,17 @@
         private Label label2;
         private TextBox textBox1;
         private Label label1;
-        private ComboBox comboBox1;
         private Label label5;
         private RadioButton radioButton1;
         private RadioButton radioButton2;
-        private CheckedListBox checkedListBox1;
         private Label label6;
+        private ComboBox comboBox1;
+        private ComboBox comboBox3;
         private Label label7;
-        private TextBox textBox4;
-        private Label label8;
         private ComboBox comboBox2;
+        private Label label8;
+        private TextBox textBox4;
+        private Label label9;
+        private TextBox textBox5;
     }
 }
