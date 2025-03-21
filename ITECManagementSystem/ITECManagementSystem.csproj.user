@@ -1,49 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="VenueManagement .cs">
+    <Compile Update="UI\DutyManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CommitteManagment.cs">
+    <Compile Update="UI\EventManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="EditionManagment.cs">
+    <Compile Update="UI\EditionManagment.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FeeTrackingAdmin.cs">
+    <Compile Update="UI\AddVenue.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FinancialManagement.cs">
+    <Compile Update="UI\CommitteManagment.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form1.cs">
+    <Compile Update="UI\FeeTrackingAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Login.cs">
+    <Compile Update="UI\FinancialManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="memberAndRoleManagement.cs">
+    <Compile Update="UI\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Registeration_feeTracking.cs">
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\memberAndRoleManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Registration.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ReportGeneration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ResultManagement.cs">
+    <Compile Update="UI\ResultManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="SignUp.cs">
+    <Compile Update="UI\SignUp.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="userDashboard.cs">
+    <Compile Update="UI\SponsorManagement.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="UserFeeTracking.cs">
+    <Compile Update="UI\TeamRegistrationForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="VenuAllocation.cs">
+    <Compile Update="UI\VendorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\userDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\VenuAllocation.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

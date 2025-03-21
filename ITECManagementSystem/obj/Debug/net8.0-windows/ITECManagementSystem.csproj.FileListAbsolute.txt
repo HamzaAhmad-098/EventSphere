@@ -38,7 +38,6 @@ D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Financi
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Form1.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Login.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Properties.Resources.resources
-D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Registeration_feeTracking.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.ReportGeneration.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.ResultManagement.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.SignUp.resources
@@ -74,6 +73,13 @@ D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.csproj.
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECMana.6A215BDA.Up2Date
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.userDashboard.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.memberAndRoleManagement.resources
-D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UserFeeTracking.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.FeeTrackingAdmin.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.AddVenu.resources
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\RestSharp.dll
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.Registration.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.SponsorManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.VendorManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.EventManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.DutyManagement.resources
+D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.TeamRegistrationForm.resources
