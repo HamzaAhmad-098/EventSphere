@@ -7,7 +7,7 @@ namespace ITECManagementSystem.DL
 {
     public class EventDL
     {
-        private readonly string connectionString = "server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;";
+        private readonly string connectionString = "server=localhost;port=3306;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;";
         public List<ItecEvent> GetEvents()
         {
             List<ItecEvent> events = new List<ItecEvent>();

@@ -4,7 +4,7 @@ using MySql.Data.MySqlClient;
 
 public class TeamDL
 {
-    private string connectionString = "server=localhost;database=dbmid;user=root;password=Vat02842@Vat02842@;";
+    private string connectionString = "server=localhost;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;";
     public bool InsertTeam(Team team, List<int> participantIds)
     {
         using (MySqlConnection conn = new MySqlConnection(connectionString))

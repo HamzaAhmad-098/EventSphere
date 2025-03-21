@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITECManagementSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25422cc2d8735cb6933bec8edfcfdaa571f55d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f758373bd2e4dce7e2e2c490abfcdc40a4566b05")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITECManagementSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITECManagementSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

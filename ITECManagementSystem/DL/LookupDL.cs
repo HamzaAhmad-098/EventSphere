@@ -6,7 +6,7 @@ namespace ITECManagementSystem.DL
 {
     public class LookupDL
     {
-        private string connectionString = "server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;";
+        private string connectionString = "server=localhost;port=3306;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;";
         public List<KeyValuePair<int, string>> GetLookupValues(string category)
         {
             List<KeyValuePair<int, string>> lookupValues = new List<KeyValuePair<int, string>>();

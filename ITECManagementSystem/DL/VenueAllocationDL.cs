@@ -7,7 +7,7 @@ namespace ITECManagementSystem.DL
 {
     public class VenueAllocationDL
     {
-        private string connectionString = "server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;";
+        private string connectionString = "server=localhost;port=3306;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;";
         public List<VenueAllocation> GetVenueAllocations()
         {
             List<VenueAllocation> allocations = new List<VenueAllocation>();
