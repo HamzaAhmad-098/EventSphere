@@ -3,12 +3,148 @@
   "WorkspaceRootPath": "D:\\DB\\ITECManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\eventdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\eventdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\committeedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\committeedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\bl\\committeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:bl\\committeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\venuallocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\venuallocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\resultmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\resultmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\sponsormanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\sponsormanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\memberandrolemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\memberandrolemanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\venuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\venuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\venueallocationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\venueallocationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\vendordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\vendordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\teamdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\teamdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\sponsordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\sponsordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\roledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\roledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\resultdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\resultdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\paymenttrackingdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\paymenttrackingdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\participantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\participantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\memberdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\memberdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\lookupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\lookupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\financedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\financedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\entityselectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\entityselectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\editiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\editiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\dutydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\dutydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\venuallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,7 +155,7 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\vendormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,18 +179,6 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\sponsormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\resultmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,19 +191,15 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\memberandrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\memberandrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\memberandrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\memberandrolemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -99,14 +219,6 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\feetrackingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|D:\\DB\\ITECManagementSystem\\ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\eventmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\editionmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\editionmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,14 +235,6 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\dutymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\committemanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\addvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\addvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -139,64 +243,12 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\addvenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\eventdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\eventdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\roledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\roledl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\resultdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\resultdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\teamdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\teamdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\dutydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\dutydl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\financedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\financedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\venuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\venuedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\memberdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\memberdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\paymenttrackingdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\paymenttrackingdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -275,42 +327,6 @@
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:bl\\lookupbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\bl\\committeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:bl\\committeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\venueallocationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\venueallocationdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\vendordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\vendordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\sponsordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\sponsordl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\participantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\participantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\lookupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\lookupdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\editiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\editiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\entityselectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\entityselectiondl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\dl\\committeedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:dl\\committeedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\addvenue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\addvenue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -385,10 +401,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\bl\\venuebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:bl\\venuebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\sponsormanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|solutionrelative:ui\\sponsormanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FBADB4B-8D8B-4079-8010-0C1CD8DF5A9A}|ITECManagementSystem.csproj|d:\\db\\itecmanagementsystem\\ui\\teamregistrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -502,11 +514,443 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
+              "RelativeDocumentMoniker": "UI\\SignUp.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs [Design]",
+              "RelativeToolTip": "UI\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:16:43.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
+              "RelativeDocumentMoniker": "UI\\SignUp.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
+              "RelativeToolTip": "UI\\SignUp.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:01:59.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EventDL.cs",
+              "RelativeDocumentMoniker": "DL\\EventDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EventDL.cs",
+              "RelativeToolTip": "DL\\EventDL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:07:58.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManagement.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
+              "RelativeDocumentMoniker": "UI\\EventManagement.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs [Design]",
+              "RelativeToolTip": "UI\\EventManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:01:13.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventManagement.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
+              "RelativeDocumentMoniker": "UI\\EventManagement.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
+              "RelativeToolTip": "UI\\EventManagement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vx0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:03:46.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
+              "RelativeToolTip": "UI\\Login.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:16:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "UI\\Login.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:16:05.97Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommitteeDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\CommitteeDL.cs",
+              "RelativeDocumentMoniker": "DL\\CommitteeDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\CommitteeDL.cs",
+              "RelativeToolTip": "DL\\CommitteeDL.cs",
+              "ViewState": "AgIAACoAAAAAZmZmZmYAwDMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:22:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommitteeBL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\CommitteeBL.cs",
+              "RelativeDocumentMoniker": "BL\\CommitteeBL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\BL\\CommitteeBL.cs",
+              "RelativeToolTip": "BL\\CommitteeBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:20:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommitteManagment.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
+              "RelativeDocumentMoniker": "UI\\CommitteManagment.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
+              "RelativeToolTip": "UI\\CommitteManagment.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAASwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:22:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommitteManagment.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
+              "RelativeDocumentMoniker": "UI\\CommitteManagment.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs [Design]",
+              "RelativeToolTip": "UI\\CommitteManagment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:30:31.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VenuAllocation.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.cs",
+              "RelativeDocumentMoniker": "UI\\VenuAllocation.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.cs [Design]",
+              "RelativeToolTip": "UI\\VenuAllocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:46:37.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SponsorManagement.Designer.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\SponsorManagement.Designer.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.Designer.cs",
+              "RelativeToolTip": "UI\\SponsorManagement.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:21:55.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VenuAllocation.Designer.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\VenuAllocation.Designer.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.Designer.cs",
+              "RelativeToolTip": "UI\\VenuAllocation.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowIoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:39:18.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultManagement.Designer.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\ResultManagement.Designer.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.Designer.cs",
+              "RelativeToolTip": "UI\\ResultManagement.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAowMQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:35:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultManagement.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
+              "RelativeDocumentMoniker": "UI\\ResultManagement.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs [Design]",
+              "RelativeToolTip": "UI\\ResultManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:09:20.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "memberAndRoleManagement.Designer.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\memberAndRoleManagement.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\memberAndRoleManagement.Designer.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\memberAndRoleManagement.Designer.cs",
+              "RelativeToolTip": "UI\\memberAndRoleManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:36:04.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VenueDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VenueDL.cs",
+              "RelativeDocumentMoniker": "DL\\VenueDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VenueDL.cs",
+              "RelativeToolTip": "DL\\VenueDL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:23:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VenueAllocationDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VenueAllocationDL.cs",
+              "RelativeDocumentMoniker": "DL\\VenueAllocationDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VenueAllocationDL.cs",
+              "RelativeToolTip": "DL\\VenueAllocationDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:21:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResultManagement.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
+              "RelativeDocumentMoniker": "UI\\ResultManagement.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
+              "RelativeToolTip": "UI\\ResultManagement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:09:22.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VendorDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VendorDL.cs",
+              "RelativeDocumentMoniker": "DL\\VendorDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VendorDL.cs",
+              "RelativeToolTip": "DL\\VendorDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:42:58.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\UserDL.cs",
+              "RelativeDocumentMoniker": "DL\\UserDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\UserDL.cs",
+              "RelativeToolTip": "DL\\UserDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:19:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeamDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\TeamDL.cs",
+              "RelativeDocumentMoniker": "DL\\TeamDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\TeamDL.cs",
+              "RelativeToolTip": "DL\\TeamDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:51:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SponsorDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\SponsorDL.cs",
+              "RelativeDocumentMoniker": "DL\\SponsorDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\SponsorDL.cs",
+              "RelativeToolTip": "DL\\SponsorDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:37:32.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\RoleDL.cs",
+              "RelativeDocumentMoniker": "DL\\RoleDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\RoleDL.cs",
+              "RelativeToolTip": "DL\\RoleDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T22:39:37.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResultDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\ResultDL.cs",
+              "RelativeDocumentMoniker": "DL\\ResultDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\ResultDL.cs",
+              "RelativeToolTip": "DL\\ResultDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:14:23.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentTrackingDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\PaymentTrackingDL.cs",
+              "RelativeDocumentMoniker": "DL\\PaymentTrackingDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\PaymentTrackingDL.cs",
+              "RelativeToolTip": "DL\\PaymentTrackingDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:12:59.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ParticipantDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\ParticipantDL.cs",
+              "RelativeDocumentMoniker": "DL\\ParticipantDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\ParticipantDL.cs",
+              "RelativeToolTip": "DL\\ParticipantDL.cs",
+              "ViewState": "AgIAAAEAAACAmZmZmVkkwAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:11:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MemberDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\MemberDL.cs",
+              "RelativeDocumentMoniker": "DL\\MemberDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\MemberDL.cs",
+              "RelativeToolTip": "DL\\MemberDL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:25:56.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LookupDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\LookupDL.cs",
+              "RelativeDocumentMoniker": "DL\\LookupDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\LookupDL.cs",
+              "RelativeToolTip": "DL\\LookupDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:02:36.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DL\\LoginDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\LoginDL.cs",
+              "RelativeToolTip": "DL\\LoginDL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:42:12.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FinanceDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\FinanceDL.cs",
+              "RelativeDocumentMoniker": "DL\\FinanceDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\FinanceDL.cs",
+              "RelativeToolTip": "DL\\FinanceDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:38:09.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntitySelectionDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EntitySelectionDL.cs",
+              "RelativeDocumentMoniker": "DL\\EntitySelectionDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EntitySelectionDL.cs",
+              "RelativeToolTip": "DL\\EntitySelectionDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:56:13.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditionDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EditionDL.cs",
+              "RelativeDocumentMoniker": "DL\\EditionDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EditionDL.cs",
+              "RelativeToolTip": "DL\\EditionDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:47:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DutyDL.cs",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\DutyDL.cs",
+              "RelativeDocumentMoniker": "DL\\DutyDL.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\DutyDL.cs",
+              "RelativeToolTip": "DL\\DutyDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:01:33.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "VenuAllocation.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.cs",
               "RelativeDocumentMoniker": "UI\\VenuAllocation.cs",
@@ -519,31 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VenuAllocation.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.cs",
-              "RelativeDocumentMoniker": "UI\\VenuAllocation.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\VenuAllocation.cs [Design]",
-              "RelativeToolTip": "UI\\VenuAllocation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:46:37.135Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "userDashboard.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\userDashboard.cs",
-              "RelativeDocumentMoniker": "UI\\userDashboard.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\userDashboard.cs [Design]",
-              "RelativeToolTip": "UI\\userDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T17:51:33.453Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 39,
               "Title": "userDashboard.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\userDashboard.cs",
               "RelativeDocumentMoniker": "UI\\userDashboard.cs",
@@ -556,19 +976,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 38,
+              "Title": "userDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\userDashboard.cs",
+              "RelativeDocumentMoniker": "UI\\userDashboard.cs",
+              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\userDashboard.cs [Design]",
+              "RelativeToolTip": "UI\\userDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:51:33.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "VendorManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VendorManagement.cs",
               "RelativeDocumentMoniker": "UI\\VendorManagement.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\VendorManagement.cs [Design]",
               "RelativeToolTip": "UI\\VendorManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:44:50.617Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T18:44:50.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 36,
               "Title": "VendorManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VendorManagement.cs",
               "RelativeDocumentMoniker": "UI\\VendorManagement.cs",
@@ -576,12 +1006,11 @@
               "RelativeToolTip": "UI\\VendorManagement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:48:58.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:48:58.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 40,
               "Title": "TeamRegistrationForm.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\TeamRegistrationForm.cs",
               "RelativeDocumentMoniker": "UI\\TeamRegistrationForm.cs",
@@ -594,19 +1023,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 41,
               "Title": "TeamRegistrationForm.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\TeamRegistrationForm.cs",
               "RelativeDocumentMoniker": "UI\\TeamRegistrationForm.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\TeamRegistrationForm.cs [Design]",
               "RelativeToolTip": "UI\\TeamRegistrationForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:44:39.213Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T20:44:39.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 42,
               "Title": "SponsorManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.cs",
               "RelativeDocumentMoniker": "UI\\SponsorManagement.cs",
@@ -619,56 +1047,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 43,
               "Title": "SponsorManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.cs",
               "RelativeDocumentMoniker": "UI\\SponsorManagement.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.cs [Design]",
               "RelativeToolTip": "UI\\SponsorManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:20:18.207Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T18:20:18.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
-              "RelativeDocumentMoniker": "UI\\SignUp.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs [Design]",
-              "RelativeToolTip": "UI\\SignUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T15:16:43.287Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResultManagement.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
-              "RelativeDocumentMoniker": "UI\\ResultManagement.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
-              "RelativeToolTip": "UI\\ResultManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T05:09:22.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ResultManagement.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs",
-              "RelativeDocumentMoniker": "UI\\ResultManagement.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\ResultManagement.cs [Design]",
-              "RelativeToolTip": "UI\\ResultManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T05:09:20.055Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 44,
               "Title": "Registration.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Registration.cs",
               "RelativeDocumentMoniker": "UI\\Registration.cs",
@@ -681,19 +1071,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 45,
               "Title": "Registration.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Registration.cs",
               "RelativeDocumentMoniker": "UI\\Registration.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Registration.cs [Design]",
               "RelativeToolTip": "UI\\Registration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:10:12.671Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T21:10:12.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 46,
               "Title": "memberAndRoleManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\memberAndRoleManagement.cs",
               "RelativeDocumentMoniker": "UI\\memberAndRoleManagement.cs",
@@ -706,19 +1095,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 47,
               "Title": "memberAndRoleManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\memberAndRoleManagement.cs",
               "RelativeDocumentMoniker": "UI\\memberAndRoleManagement.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\memberAndRoleManagement.cs [Design]",
               "RelativeToolTip": "UI\\memberAndRoleManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:43:26.508Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-21T18:43:26.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 48,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
@@ -731,19 +1119,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 49,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Form1.cs",
               "RelativeDocumentMoniker": "UI\\Form1.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Form1.cs [Design]",
               "RelativeToolTip": "UI\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T11:29:32.825Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-21T11:29:32.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 50,
               "Title": "FinancialManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\FinancialManagement.cs",
               "RelativeDocumentMoniker": "UI\\FinancialManagement.cs",
@@ -756,31 +1143,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
-              "RelativeDocumentMoniker": "UI\\Login.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs [Design]",
-              "RelativeToolTip": "UI\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:16:05.97Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 51,
               "Title": "FinancialManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\FinancialManagement.cs",
               "RelativeDocumentMoniker": "UI\\FinancialManagement.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\FinancialManagement.cs [Design]",
               "RelativeToolTip": "UI\\FinancialManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:47:08.601Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T16:47:08.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 52,
               "Title": "FeeTrackingAdmin.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\FeeTrackingAdmin.cs",
               "RelativeDocumentMoniker": "UI\\FeeTrackingAdmin.cs",
@@ -793,44 +1167,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 53,
               "Title": "FeeTrackingAdmin.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\FeeTrackingAdmin.cs",
               "RelativeDocumentMoniker": "UI\\FeeTrackingAdmin.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\FeeTrackingAdmin.cs [Design]",
               "RelativeToolTip": "UI\\FeeTrackingAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:45:46.731Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T22:45:46.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EventManagement.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
-              "RelativeDocumentMoniker": "UI\\EventManagement.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
-              "RelativeToolTip": "UI\\EventManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:03:46.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EventManagement.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs",
-              "RelativeDocumentMoniker": "UI\\EventManagement.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.cs [Design]",
-              "RelativeToolTip": "UI\\EventManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:01:13.048Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 54,
               "Title": "EditionManagment.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EditionManagment.cs",
               "RelativeDocumentMoniker": "UI\\EditionManagment.cs",
@@ -843,19 +1191,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 55,
               "Title": "EditionManagment.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EditionManagment.cs",
               "RelativeDocumentMoniker": "UI\\EditionManagment.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\EditionManagment.cs [Design]",
               "RelativeToolTip": "UI\\EditionManagment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T10:01:05.417Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-19T10:01:05.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 56,
               "Title": "DutyManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\DutyManagement.cs",
               "RelativeDocumentMoniker": "UI\\DutyManagement.cs",
@@ -868,44 +1215,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 57,
               "Title": "DutyManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\DutyManagement.cs",
               "RelativeDocumentMoniker": "UI\\DutyManagement.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\DutyManagement.cs [Design]",
               "RelativeToolTip": "UI\\DutyManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:45:53.325Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T19:45:53.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CommitteManagment.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
-              "RelativeDocumentMoniker": "UI\\CommitteManagment.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
-              "RelativeToolTip": "UI\\CommitteManagment.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwDYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:22:31.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CommitteManagment.cs [Design]",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs",
-              "RelativeDocumentMoniker": "UI\\CommitteManagment.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\CommitteManagment.cs [Design]",
-              "RelativeToolTip": "UI\\CommitteManagment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:30:31.109Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 58,
               "Title": "AddVenue.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\AddVenue.cs",
               "RelativeDocumentMoniker": "UI\\AddVenue.cs",
@@ -918,45 +1239,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 59,
               "Title": "AddVenue.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\AddVenue.cs",
               "RelativeDocumentMoniker": "UI\\AddVenue.cs",
               "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\AddVenue.cs [Design]",
               "RelativeToolTip": "UI\\AddVenue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:21:43.798Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T21:21:43.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EventDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EventDL.cs",
-              "RelativeDocumentMoniker": "DL\\EventDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EventDL.cs",
-              "RelativeToolTip": "DL\\EventDL.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:07:58.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "RoleDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\RoleDL.cs",
-              "RelativeDocumentMoniker": "DL\\RoleDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\RoleDL.cs",
-              "RelativeToolTip": "DL\\RoleDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:39:37.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 60,
               "Title": "UserBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\UserBL.cs",
               "RelativeDocumentMoniker": "BL\\UserBL.cs",
@@ -964,90 +1258,11 @@
               "RelativeToolTip": "BL\\UserBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:39:59.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:39:59.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UserDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\UserDL.cs",
-              "RelativeDocumentMoniker": "DL\\UserDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\UserDL.cs",
-              "RelativeToolTip": "DL\\UserDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:19:26.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
-              "RelativeDocumentMoniker": "UI\\Login.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\Login.cs",
-              "RelativeToolTip": "UI\\Login.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAiwGoAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:16:07.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
-              "RelativeDocumentMoniker": "UI\\SignUp.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.cs",
-              "RelativeToolTip": "UI\\SignUp.cs",
-              "ViewState": "AgIAAC4AAAAAzMzMzMwRwDYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:01:59.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ResultDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\ResultDL.cs",
-              "RelativeDocumentMoniker": "DL\\ResultDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\ResultDL.cs",
-              "RelativeToolTip": "DL\\ResultDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:14:23.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "LoginDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\LoginDL.cs",
-              "RelativeDocumentMoniker": "DL\\LoginDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\LoginDL.cs",
-              "RelativeToolTip": "DL\\LoginDL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T10:42:12.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "TeamDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\TeamDL.cs",
-              "RelativeDocumentMoniker": "DL\\TeamDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\TeamDL.cs",
-              "RelativeToolTip": "DL\\TeamDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:51:23.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 61,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Result.cs",
               "RelativeDocumentMoniker": "Models\\Result.cs",
@@ -1055,77 +1270,11 @@
               "RelativeToolTip": "Models\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:50:40.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:50:40.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "DutyDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\DutyDL.cs",
-              "RelativeDocumentMoniker": "DL\\DutyDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\DutyDL.cs",
-              "RelativeToolTip": "DL\\DutyDL.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:01:33.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "FinanceDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\FinanceDL.cs",
-              "RelativeDocumentMoniker": "DL\\FinanceDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\FinanceDL.cs",
-              "RelativeToolTip": "DL\\FinanceDL.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:38:09.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "VenueDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VenueDL.cs",
-              "RelativeDocumentMoniker": "DL\\VenueDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VenueDL.cs",
-              "RelativeToolTip": "DL\\VenueDL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:23:47.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "MemberDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\MemberDL.cs",
-              "RelativeDocumentMoniker": "DL\\MemberDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\MemberDL.cs",
-              "RelativeToolTip": "DL\\MemberDL.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:25:56.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "PaymentTrackingDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\PaymentTrackingDL.cs",
-              "RelativeDocumentMoniker": "DL\\PaymentTrackingDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\PaymentTrackingDL.cs",
-              "RelativeToolTip": "DL\\PaymentTrackingDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:12:59.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "Team.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Models\\Team.cs",
@@ -1133,12 +1282,11 @@
               "RelativeToolTip": "Models\\Team.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:54:12.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:54:12.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -1146,12 +1294,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:52:58.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:52:58.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 64,
               "Title": "ItechEdition.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\ItechEdition.cs",
               "RelativeDocumentMoniker": "Models\\ItechEdition.cs",
@@ -1159,12 +1306,11 @@
               "RelativeToolTip": "Models\\ItechEdition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T17:19:28.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T17:19:28.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 65,
               "Title": "ItecEvent.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\ItecEvent.cs",
               "RelativeDocumentMoniker": "Models\\ItecEvent.cs",
@@ -1172,12 +1318,11 @@
               "RelativeToolTip": "Models\\ItecEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:50:19.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:50:19.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 66,
               "Title": "PaymentTracking.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\PaymentTracking.cs",
               "RelativeDocumentMoniker": "Models\\PaymentTracking.cs",
@@ -1185,12 +1330,11 @@
               "RelativeToolTip": "Models\\PaymentTracking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:50:32.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:50:32.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 67,
               "Title": "Committee.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Committee.cs",
               "RelativeDocumentMoniker": "Models\\Committee.cs",
@@ -1198,12 +1342,11 @@
               "RelativeToolTip": "Models\\Committee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:27:27.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T09:27:27.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 68,
               "Title": "Duty.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Duty.cs",
               "RelativeDocumentMoniker": "Models\\Duty.cs",
@@ -1211,12 +1354,11 @@
               "RelativeToolTip": "Models\\Duty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:01:10.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:01:10.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 69,
               "Title": "FinanceTransaction.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\FinanceTransaction.cs",
               "RelativeDocumentMoniker": "Models\\FinanceTransaction.cs",
@@ -1224,12 +1366,11 @@
               "RelativeToolTip": "Models\\FinanceTransaction.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:37:09.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:37:09.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 70,
               "Title": "Venue.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Venue.cs",
               "RelativeDocumentMoniker": "Models\\Venue.cs",
@@ -1237,12 +1378,11 @@
               "RelativeToolTip": "Models\\Venue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:28:47.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T19:28:47.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 71,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Models\\Event.cs",
@@ -1250,12 +1390,11 @@
               "RelativeToolTip": "Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:19:26.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:19:26.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 72,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Member.cs",
               "RelativeDocumentMoniker": "Models\\Member.cs",
@@ -1263,12 +1402,11 @@
               "RelativeToolTip": "Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:23:36.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:23:36.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 73,
               "Title": "Sponsor.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Sponsor.cs",
               "RelativeDocumentMoniker": "Models\\Sponsor.cs",
@@ -1276,12 +1414,11 @@
               "RelativeToolTip": "Models\\Sponsor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:36:31.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:36:31.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 74,
               "Title": "Vendor.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Vendor.cs",
               "RelativeDocumentMoniker": "Models\\Vendor.cs",
@@ -1289,12 +1426,11 @@
               "RelativeToolTip": "Models\\Vendor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:52:41.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:52:41.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 75,
               "Title": "LoginBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\LoginBL.cs",
               "RelativeDocumentMoniker": "BL\\LoginBL.cs",
@@ -1302,12 +1438,11 @@
               "RelativeToolTip": "BL\\LoginBL.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:34:05.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:34:05.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 78,
               "Title": "Participant.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Participant.cs",
               "RelativeDocumentMoniker": "Models\\Participant.cs",
@@ -1315,12 +1450,11 @@
               "RelativeToolTip": "Models\\Participant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:10:52.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:10:52.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 76,
               "Title": "SignUp.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SignUp.Designer.cs",
               "RelativeDocumentMoniker": "UI\\SignUp.Designer.cs",
@@ -1333,7 +1467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 77,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Login.Designer.cs",
               "RelativeDocumentMoniker": "UI\\Login.Designer.cs",
@@ -1346,7 +1480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 79,
               "Title": "ResultBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\ResultBL.cs",
               "RelativeDocumentMoniker": "BL\\ResultBL.cs",
@@ -1354,12 +1488,11 @@
               "RelativeToolTip": "BL\\ResultBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:36:43.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:36:43.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 80,
               "Title": "LookupBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\LookupBL.cs",
               "RelativeDocumentMoniker": "BL\\LookupBL.cs",
@@ -1367,129 +1500,11 @@
               "RelativeToolTip": "BL\\LookupBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:03:27.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T17:03:27.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "CommitteeBL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\CommitteeBL.cs",
-              "RelativeDocumentMoniker": "BL\\CommitteeBL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\BL\\CommitteeBL.cs",
-              "RelativeToolTip": "BL\\CommitteeBL.cs",
-              "ViewState": "AgIAAAgAAADgzMzMzMwhwAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T17:20:46.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "VenueAllocationDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VenueAllocationDL.cs",
-              "RelativeDocumentMoniker": "DL\\VenueAllocationDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VenueAllocationDL.cs",
-              "RelativeToolTip": "DL\\VenueAllocationDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:21:52.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "SponsorDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\SponsorDL.cs",
-              "RelativeDocumentMoniker": "DL\\SponsorDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\SponsorDL.cs",
-              "RelativeToolTip": "DL\\SponsorDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:37:32.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "VendorDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\VendorDL.cs",
-              "RelativeDocumentMoniker": "DL\\VendorDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\VendorDL.cs",
-              "RelativeToolTip": "DL\\VendorDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:42:58.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "LookupDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\LookupDL.cs",
-              "RelativeDocumentMoniker": "DL\\LookupDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\LookupDL.cs",
-              "RelativeToolTip": "DL\\LookupDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:02:36.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ParticipantDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\ParticipantDL.cs",
-              "RelativeDocumentMoniker": "DL\\ParticipantDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\ParticipantDL.cs",
-              "RelativeToolTip": "DL\\ParticipantDL.cs",
-              "ViewState": "AgIAACQAAAAAzczMzMzyvzUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:11:34.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "EditionDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EditionDL.cs",
-              "RelativeDocumentMoniker": "DL\\EditionDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EditionDL.cs",
-              "RelativeToolTip": "DL\\EditionDL.cs",
-              "ViewState": "AgIAAEcAAAAAzszMzMz4vxIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:47:24.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "EntitySelectionDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\EntitySelectionDL.cs",
-              "RelativeDocumentMoniker": "DL\\EntitySelectionDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\EntitySelectionDL.cs",
-              "RelativeToolTip": "DL\\EntitySelectionDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:56:13.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "CommitteeDL.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\DL\\CommitteeDL.cs",
-              "RelativeDocumentMoniker": "DL\\CommitteeDL.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\DL\\CommitteeDL.cs",
-              "RelativeToolTip": "DL\\CommitteeDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T09:22:53.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 81,
               "Title": "AddVenue.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\AddVenue.Designer.cs",
               "RelativeDocumentMoniker": "UI\\AddVenue.Designer.cs",
@@ -1497,12 +1512,11 @@
               "RelativeToolTip": "UI\\AddVenue.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:55:26.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T21:55:26.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 82,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -1514,7 +1528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 83,
               "Title": "SponsorBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\SponsorBL.cs",
               "RelativeDocumentMoniker": "BL\\SponsorBL.cs",
@@ -1526,7 +1540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 84,
               "Title": "VenueAllocation.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\VenueAllocation.cs",
               "RelativeDocumentMoniker": "Models\\VenueAllocation.cs",
@@ -1538,7 +1552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 85,
               "Title": "EventCategory.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\EventCategory.cs",
               "RelativeDocumentMoniker": "Models\\EventCategory.cs",
@@ -1550,7 +1564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 86,
               "Title": "Editions.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Models\\Editions.cs",
               "RelativeDocumentMoniker": "Models\\Editions.cs",
@@ -1562,7 +1576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 87,
               "Title": "DutyBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\DutyBL.cs",
               "RelativeDocumentMoniker": "BL\\DutyBL.cs",
@@ -1574,7 +1588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 88,
               "Title": "EditionBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\EditionBL.cs",
               "RelativeDocumentMoniker": "BL\\EditionBL.cs",
@@ -1586,7 +1600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 89,
               "Title": "EntitySelectionBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\EntitySelectionBL.cs",
               "RelativeDocumentMoniker": "BL\\EntitySelectionBL.cs",
@@ -1598,7 +1612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 90,
               "Title": "EventBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\EventBL.cs",
               "RelativeDocumentMoniker": "BL\\EventBL.cs",
@@ -1610,7 +1624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 91,
               "Title": "FinanceBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\FinanceBL.cs",
               "RelativeDocumentMoniker": "BL\\FinanceBL.cs",
@@ -1622,7 +1636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 92,
               "Title": "MemberBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\MemberBL.cs",
               "RelativeDocumentMoniker": "BL\\MemberBL.cs",
@@ -1634,7 +1648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 93,
               "Title": "ParticipantBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\ParticipantBL.cs",
               "RelativeDocumentMoniker": "BL\\ParticipantBL.cs",
@@ -1646,7 +1660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 94,
               "Title": "PaymentTrackingBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\PaymentTrackingBL.cs",
               "RelativeDocumentMoniker": "BL\\PaymentTrackingBL.cs",
@@ -1658,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 95,
               "Title": "RoleBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\RoleBL.cs",
               "RelativeDocumentMoniker": "BL\\RoleBL.cs",
@@ -1670,7 +1684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 96,
               "Title": "TeamBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\TeamBL.cs",
               "RelativeDocumentMoniker": "BL\\TeamBL.cs",
@@ -1682,7 +1696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 97,
               "Title": "VendorBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\VendorBL.cs",
               "RelativeDocumentMoniker": "BL\\VendorBL.cs",
@@ -1694,7 +1708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 98,
               "Title": "VenueAllocationBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\VenueAllocationBL.cs",
               "RelativeDocumentMoniker": "BL\\VenueAllocationBL.cs",
@@ -1706,7 +1720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 99,
               "Title": "VenueBL.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\BL\\VenueBL.cs",
               "RelativeDocumentMoniker": "BL\\VenueBL.cs",
@@ -1718,20 +1732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "SponsorManagement.Designer.cs",
-              "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.Designer.cs",
-              "RelativeDocumentMoniker": "UI\\SponsorManagement.Designer.cs",
-              "ToolTip": "D:\\DB\\ITECManagementSystem\\UI\\SponsorManagement.Designer.cs",
-              "RelativeToolTip": "UI\\SponsorManagement.Designer.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowFwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T21:21:55.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 100,
               "Title": "TeamRegistrationForm.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\TeamRegistrationForm.Designer.cs",
               "RelativeDocumentMoniker": "UI\\TeamRegistrationForm.Designer.cs",
@@ -1739,12 +1740,11 @@
               "RelativeToolTip": "UI\\TeamRegistrationForm.Designer.cs",
               "ViewState": "AgIAADwAAAAAzMzMzMz8v3sAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:59:25.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:59:25.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 101,
               "Title": "Registration.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\Registration.Designer.cs",
               "RelativeDocumentMoniker": "UI\\Registration.Designer.cs",
@@ -1752,12 +1752,11 @@
               "RelativeToolTip": "UI\\Registration.Designer.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAAwK0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T14:12:51.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T14:12:51.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 102,
               "Title": "DutyManagement.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\DutyManagement.Designer.cs",
               "RelativeDocumentMoniker": "UI\\DutyManagement.Designer.cs",
@@ -1765,12 +1764,11 @@
               "RelativeToolTip": "UI\\DutyManagement.Designer.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAowN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:59:35.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T19:59:35.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 103,
               "Title": "EventManagement.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\EventManagement.Designer.cs",
               "RelativeDocumentMoniker": "UI\\EventManagement.Designer.cs",
@@ -1783,7 +1781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 104,
               "Title": "VendorManagement.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\VendorManagement.Designer.cs",
               "RelativeDocumentMoniker": "UI\\VendorManagement.Designer.cs",
@@ -1791,12 +1789,11 @@
               "RelativeToolTip": "UI\\VendorManagement.Designer.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAQwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:52:46.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:52:46.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 105,
               "Title": "FinancialManagement.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\UI\\FinancialManagement.Designer.cs",
               "RelativeDocumentMoniker": "UI\\FinancialManagement.Designer.cs",
@@ -1804,12 +1801,11 @@
               "RelativeToolTip": "UI\\FinancialManagement.Designer.cs",
               "ViewState": "AgIAAN0AAAAAAAAAAAAAADMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:05:44.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T16:05:44.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 106,
               "Title": "ITECManagementSystem.csproj",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\ITECManagementSystem.csproj",
               "RelativeDocumentMoniker": "ITECManagementSystem.csproj",
@@ -1821,7 +1817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 108,
               "Title": "VenuAllocation.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\VenuAllocation.cs",
               "RelativeDocumentMoniker": "VenuAllocation.cs",
@@ -1832,7 +1828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 109,
               "Title": "memberAndRoleManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\memberAndRoleManagement.cs",
               "RelativeDocumentMoniker": "memberAndRoleManagement.cs",
@@ -1843,7 +1839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 110,
               "Title": "memberAndRoleManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\memberAndRoleManagement.cs",
               "RelativeDocumentMoniker": "memberAndRoleManagement.cs",
@@ -1855,7 +1851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 111,
               "Title": "VenuAllocation.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\VenuAllocation.Designer.cs",
               "RelativeDocumentMoniker": "VenuAllocation.Designer.cs",
@@ -1867,7 +1863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 112,
               "Title": "VenuAllocation.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\VenuAllocation.cs",
               "RelativeDocumentMoniker": "VenuAllocation.cs",
@@ -1878,7 +1874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 113,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -1889,7 +1885,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 114,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -1900,7 +1896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 115,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
@@ -1912,7 +1908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 116,
               "Title": "SignUp.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -1924,7 +1920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 117,
               "Title": "VenueManagement .cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\VenueManagement .cs",
               "RelativeDocumentMoniker": "VenueManagement .cs",
@@ -1935,7 +1931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 118,
               "Title": "VenueManagement .cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\VenueManagement .cs",
               "RelativeDocumentMoniker": "VenueManagement .cs",
@@ -1947,7 +1943,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 119,
               "Title": "FeeTrackingAdmin.Designer.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\FeeTrackingAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FeeTrackingAdmin.Designer.cs",
@@ -1959,7 +1955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 120,
               "Title": "FeeTrackingAdmin.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\FeeTrackingAdmin.cs",
               "RelativeDocumentMoniker": "FeeTrackingAdmin.cs",
@@ -1970,7 +1966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 121,
               "Title": "FeeTrackingAdmin.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\FeeTrackingAdmin.cs",
               "RelativeDocumentMoniker": "FeeTrackingAdmin.cs",
@@ -1982,7 +1978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 122,
               "Title": "ResultManagement.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\ResultManagement.cs",
               "RelativeDocumentMoniker": "ResultManagement.cs",
@@ -1993,7 +1989,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 123,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -2004,7 +2000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 124,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -2015,7 +2011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 107,
               "Title": "ReportGeneration.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\ReportGeneration.cs",
               "RelativeDocumentMoniker": "ReportGeneration.cs",
@@ -2026,7 +2022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 125,
               "Title": "ResultManagement.cs [Design]",
               "DocumentMoniker": "D:\\DB\\ITECManagementSystem\\ResultManagement.cs",
               "RelativeDocumentMoniker": "ResultManagement.cs",

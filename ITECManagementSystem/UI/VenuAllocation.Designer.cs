@@ -136,6 +136,7 @@
             btnUpdate.TabIndex = 9;
             btnUpdate.Text = "Update Venu";
             btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 

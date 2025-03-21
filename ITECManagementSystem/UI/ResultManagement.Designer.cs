@@ -183,6 +183,7 @@
             btnUpdateResult.TabIndex = 14;
             btnUpdateResult.Text = "Edit Result";
             btnUpdateResult.UseVisualStyleBackColor = true;
+            btnUpdateResult.Click += btnUpdateResult_Click;
             // 
             // btnDeleteResult
             // 
@@ -193,6 +194,7 @@
             btnDeleteResult.TabIndex = 15;
             btnDeleteResult.Text = "Delete Result";
             btnDeleteResult.UseVisualStyleBackColor = true;
+            btnDeleteResult.Click += btnDeleteResult_Click;
             // 
             // dataGridViewResults
             // 

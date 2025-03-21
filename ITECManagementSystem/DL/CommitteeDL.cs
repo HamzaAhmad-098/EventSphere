@@ -49,7 +49,7 @@ namespace ITECManagementSystem.DL
                 try
                 {
                     con.Open();
-                    string query = "SELECT itec_id, year FROM itec_editions";
+                    string query = "SELECT itec_id, year , theme FROM itec_editions";
                     using (MySqlCommand cmd = new MySqlCommand(query, con))
                     using (MySqlDataReader reader = cmd.ExecuteReader())
                     {

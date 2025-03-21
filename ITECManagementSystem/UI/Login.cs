@@ -13,7 +13,6 @@ namespace ITECManagementSystem
         public Login()
         {
             InitializeComponent();
-            // UI-specific settings (centering, flat style, etc.)
             this.Resize += new EventHandler(Login_Resize);
             CenterLabel();
             button1.FlatStyle = FlatStyle.Flat;
@@ -57,15 +56,11 @@ namespace ITECManagementSystem
             panel1.BackColor = Color.FromArgb(150, 65, 105, 225);
             button1.BackColor = Color.Transparent;
         }
-
-        // Opens the SignUp form.
         private void button1_Click(object sender, EventArgs e)
         {
             SignUp signUp = new SignUp();
             signUp.Show();
         }
-
-        // The Login button click event (button2)
         private void button2_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtUsername.Text) || string.IsNullOrWhiteSpace(txtPassword.Text))
@@ -78,13 +73,9 @@ namespace ITECManagementSystem
             {
                 User user = loginBL.AuthenticateUser(txtUsername.Text, txtPassword.Text);
                 string roleName = user.RoleName;
-
-                // Optionally, retrieve participant ID if needed.
                 SessionData.CurrentParticipantID = GetParticipantIdByEmail(user.Email);
 
                 MessageBox.Show("Login Successful!");
-
-                // Redirect based on role
                 RedirectBasedOnRole(roleName);
 
                 this.Hide();
@@ -94,8 +85,6 @@ namespace ITECManagementSystem
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
-
-        // Redirect user based on their role
         private void RedirectBasedOnRole(string roleName)
         {
             switch (roleName)
@@ -121,12 +110,8 @@ namespace ITECManagementSystem
                     break;
             }
         }
-
-        // Dummy method – replace with your logic to get the participant ID.
         private int GetParticipantIdByEmail(string email)
         {
-            // This method should call a BL/DL method to retrieve the participant ID from the database.
-            // For now, return 0 or any default value.
             return 0;
         }
 
@@ -137,12 +122,12 @@ namespace ITECManagementSystem
 
         private void txtUsername_TextChanged(object sender, EventArgs e)
         {
-            // Optional: handle text changed.
+           
         }
 
         private void txtPassword_TextChanged(object sender, EventArgs e)
         {
-            // Optional: handle text changed.
+            
         }
     }
 }
