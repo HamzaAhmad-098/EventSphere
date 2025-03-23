@@ -34,6 +34,7 @@
             button4 = new Button();
             button5 = new Button();
             panel1 = new Panel();
+            label1 = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -51,7 +52,7 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI", 12F);
-            button2.Location = new Point(19, 235);
+            button2.Location = new Point(19, 127);
             button2.Name = "button2";
             button2.Size = new Size(224, 35);
             button2.TabIndex = 1;
@@ -62,7 +63,7 @@
             // button3
             // 
             button3.Font = new Font("Segoe UI", 12F);
-            button3.Location = new Point(19, 130);
+            button3.Location = new Point(19, 239);
             button3.Name = "button3";
             button3.Size = new Size(224, 35);
             button3.TabIndex = 2;
@@ -96,26 +97,42 @@
             // 
             panel1.BackColor = Color.Transparent;
             panel1.Controls.Add(button1);
+            panel1.Controls.Add(button3);
             panel1.Controls.Add(button2);
             panel1.Controls.Add(button5);
             panel1.Controls.Add(button4);
-            panel1.Controls.Add(button3);
             panel1.Location = new Point(219, 74);
             panel1.Name = "panel1";
             panel1.Size = new Size(261, 294);
             panel1.TabIndex = 5;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.Font = new Font("Times New Roman", 27.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.Location = new Point(247, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(201, 43);
+            label1.TabIndex = 6;
+            label1.Text = "Itec Reports";
+            // 
             // ReportGeneration
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlDark;
+            BackgroundImage = Properties.Resources.photo_1521811628991_7a3ea581f7d1;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(702, 450);
+            Controls.Add(label1);
             Controls.Add(panel1);
             Name = "ReportGeneration";
             Text = "ReportGeneration";
             Load += ReportGeneration_Load;
             panel1.ResumeLayout(false);
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -126,5 +143,6 @@
         private Button button4;
         private Button button5;
         private Panel panel1;
+        private Label label1;
     }
 }

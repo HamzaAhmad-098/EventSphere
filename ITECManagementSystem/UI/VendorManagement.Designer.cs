@@ -15,127 +15,130 @@
 
         private void InitializeComponent()
         {
-            this.dataGridViewVendors = new System.Windows.Forms.DataGridView();
-            this.txtVendorName = new System.Windows.Forms.TextBox();
-            this.txtContact = new System.Windows.Forms.TextBox();
-            this.txtServiceType = new System.Windows.Forms.TextBox();
-            this.btnAdd = new System.Windows.Forms.Button();
-            this.btnUpdate = new System.Windows.Forms.Button();
-            this.btnDelete = new System.Windows.Forms.Button();
-            this.lblVendorName = new System.Windows.Forms.Label();
-            this.lblContact = new System.Windows.Forms.Label();
-            this.lblServiceType = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVendors)).BeginInit();
-            this.SuspendLayout();
+            dataGridViewVendors = new DataGridView();
+            txtVendorName = new TextBox();
+            txtContact = new TextBox();
+            txtServiceType = new TextBox();
+            btnAdd = new Button();
+            btnUpdate = new Button();
+            btnDelete = new Button();
+            lblVendorName = new Label();
+            lblContact = new Label();
+            lblServiceType = new Label();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewVendors).BeginInit();
+            SuspendLayout();
             // 
             // dataGridViewVendors
             // 
-            this.dataGridViewVendors.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewVendors.Location = new System.Drawing.Point(12, 12);
-            this.dataGridViewVendors.Name = "dataGridViewVendors";
-            this.dataGridViewVendors.Size = new System.Drawing.Size(600, 150);
-            this.dataGridViewVendors.TabIndex = 0;
-            this.dataGridViewVendors.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewVendors_CellClick);
+            dataGridViewVendors.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewVendors.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewVendors.Location = new Point(-1, -2);
+            dataGridViewVendors.Name = "dataGridViewVendors";
+            dataGridViewVendors.Size = new Size(625, 150);
+            dataGridViewVendors.TabIndex = 0;
+            dataGridViewVendors.CellClick += dataGridViewVendors_CellClick;
             // 
             // txtVendorName
             // 
-            this.txtVendorName.Location = new System.Drawing.Point(12, 190);
-            this.txtVendorName.Name = "txtVendorName";
-            this.txtVendorName.Size = new System.Drawing.Size(200, 23);
-            this.txtVendorName.TabIndex = 1;
+            txtVendorName.Location = new Point(12, 190);
+            txtVendorName.Name = "txtVendorName";
+            txtVendorName.Size = new Size(200, 23);
+            txtVendorName.TabIndex = 1;
             // 
             // txtContact
             // 
-            this.txtContact.Location = new System.Drawing.Point(12, 240);
-            this.txtContact.Name = "txtContact";
-            this.txtContact.Size = new System.Drawing.Size(200, 23);
-            this.txtContact.TabIndex = 2;
+            txtContact.Location = new Point(12, 240);
+            txtContact.Name = "txtContact";
+            txtContact.Size = new Size(200, 23);
+            txtContact.TabIndex = 2;
             // 
             // txtServiceType
             // 
-            this.txtServiceType.Location = new System.Drawing.Point(12, 290);
-            this.txtServiceType.Name = "txtServiceType";
-            this.txtServiceType.Size = new System.Drawing.Size(200, 23);
-            this.txtServiceType.TabIndex = 3;
+            txtServiceType.Location = new Point(12, 290);
+            txtServiceType.Name = "txtServiceType";
+            txtServiceType.Size = new Size(200, 23);
+            txtServiceType.TabIndex = 3;
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(12, 340);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(75, 30);
-            this.btnAdd.TabIndex = 4;
-            this.btnAdd.Text = "Add";
-            this.btnAdd.UseVisualStyleBackColor = true;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            btnAdd.Location = new Point(12, 340);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(75, 30);
+            btnAdd.TabIndex = 4;
+            btnAdd.Text = "Add";
+            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(93, 340);
-            this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(75, 30);
-            this.btnUpdate.TabIndex = 5;
-            this.btnUpdate.Text = "Update";
-            this.btnUpdate.UseVisualStyleBackColor = true;
-            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            btnUpdate.Location = new Point(93, 340);
+            btnUpdate.Name = "btnUpdate";
+            btnUpdate.Size = new Size(75, 30);
+            btnUpdate.TabIndex = 5;
+            btnUpdate.Text = "Update";
+            btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(174, 340);
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(75, 30);
-            this.btnDelete.TabIndex = 6;
-            this.btnDelete.Text = "Delete";
-            this.btnDelete.UseVisualStyleBackColor = true;
-            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            btnDelete.Location = new Point(174, 340);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(75, 30);
+            btnDelete.TabIndex = 6;
+            btnDelete.Text = "Delete";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // lblVendorName
             // 
-            this.lblVendorName.AutoSize = true;
-            this.lblVendorName.Location = new System.Drawing.Point(12, 170);
-            this.lblVendorName.Name = "lblVendorName";
-            this.lblVendorName.Size = new System.Drawing.Size(88, 15);
-            this.lblVendorName.TabIndex = 7;
-            this.lblVendorName.Text = "Vendor Name:";
+            lblVendorName.AutoSize = true;
+            lblVendorName.Location = new Point(12, 170);
+            lblVendorName.Name = "lblVendorName";
+            lblVendorName.Size = new Size(82, 15);
+            lblVendorName.TabIndex = 7;
+            lblVendorName.Text = "Vendor Name:";
             // 
             // lblContact
             // 
-            this.lblContact.AutoSize = true;
-            this.lblContact.Location = new System.Drawing.Point(12, 220);
-            this.lblContact.Name = "lblContact";
-            this.lblContact.Size = new System.Drawing.Size(55, 15);
-            this.lblContact.TabIndex = 8;
-            this.lblContact.Text = "Contact:";
+            lblContact.AutoSize = true;
+            lblContact.Location = new Point(12, 220);
+            lblContact.Name = "lblContact";
+            lblContact.Size = new Size(52, 15);
+            lblContact.TabIndex = 8;
+            lblContact.Text = "Contact:";
             // 
             // lblServiceType
             // 
-            this.lblServiceType.AutoSize = true;
-            this.lblServiceType.Location = new System.Drawing.Point(12, 270);
-            this.lblServiceType.Name = "lblServiceType";
-            this.lblServiceType.Size = new System.Drawing.Size(80, 15);
-            this.lblServiceType.TabIndex = 9;
-            this.lblServiceType.Text = "Service Type:";
+            lblServiceType.AutoSize = true;
+            lblServiceType.Location = new Point(12, 270);
+            lblServiceType.Name = "lblServiceType";
+            lblServiceType.Size = new Size(74, 15);
+            lblServiceType.TabIndex = 9;
+            lblServiceType.Text = "Service Type:";
             // 
             // VendorManagement
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(624, 391);
-            this.Controls.Add(this.lblServiceType);
-            this.Controls.Add(this.lblContact);
-            this.Controls.Add(this.lblVendorName);
-            this.Controls.Add(this.btnDelete);
-            this.Controls.Add(this.btnUpdate);
-            this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.txtServiceType);
-            this.Controls.Add(this.txtContact);
-            this.Controls.Add(this.txtVendorName);
-            this.Controls.Add(this.dataGridViewVendors);
-            this.Name = "VendorManagement";
-            this.Text = "Vendor Management";
-            this.Load += new System.EventHandler(this.VendorManagement_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVendors)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1664297751296_08177be1ce96;
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(624, 391);
+            Controls.Add(lblServiceType);
+            Controls.Add(lblContact);
+            Controls.Add(lblVendorName);
+            Controls.Add(btnDelete);
+            Controls.Add(btnUpdate);
+            Controls.Add(btnAdd);
+            Controls.Add(txtServiceType);
+            Controls.Add(txtContact);
+            Controls.Add(txtVendorName);
+            Controls.Add(dataGridViewVendors);
+            Name = "VendorManagement";
+            Text = "Vendor Management";
+            Load += VendorManagement_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridViewVendors).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

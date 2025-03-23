@@ -59,5 +59,65 @@ namespace ITECManagementSystem.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_1499711860525_c485eb341d5e {
+            get {
+                object obj = ResourceManager.GetObject("photo-1499711860525-c485eb341d5e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_1521811628991_7a3ea581f7d1 {
+            get {
+                object obj = ResourceManager.GetObject("photo-1521811628991-7a3ea581f7d1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_1521811628991_7a3ea581f7d11 {
+            get {
+                object obj = ResourceManager.GetObject("photo-1521811628991-7a3ea581f7d11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_1689749907651_fc3b68bdc184 {
+            get {
+                object obj = ResourceManager.GetObject("photo-1689749907651-fc3b68bdc184", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap premium_photo_1664297751296_08177be1ce96 {
+            get {
+                object obj = ResourceManager.GetObject("premium_photo-1664297751296-08177be1ce96", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap premium_photo_1668004507251_d282df882123 {
+            get {
+                object obj = ResourceManager.GetObject("premium_photo-1668004507251-d282df882123", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

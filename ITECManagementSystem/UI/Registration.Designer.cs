@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Registration));
             button3 = new Button();
             button1 = new Button();
             label4 = new Label();
@@ -258,11 +257,11 @@
             textBox5.Size = new Size(153, 23);
             textBox5.TabIndex = 40;
             // 
-            // Registeration_feeTracking
+            // Registration
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImage = Properties.Resources.photo_1521811628991_7a3ea581f7d11;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(686, 446);
             Controls.Add(textBox5);
@@ -286,7 +285,7 @@
             Controls.Add(label2);
             Controls.Add(textBox1);
             Controls.Add(label1);
-            Name = "Registeration_feeTracking";
+            Name = "Registration";
             Text = "Registeration_feeTracking";
             Load += Registration_Load;
             ResumeLayout(false);

@@ -168,6 +168,7 @@
             // 
             // panel1
             // 
+            panel1.BackColor = Color.Transparent;
             panel1.Controls.Add(btnAdd);
             panel1.Controls.Add(btnDelete);
             panel1.Controls.Add(btnUpdate);
@@ -180,6 +181,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1668004507251_d282df882123;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(623, 445);
             Controls.Add(panel1);
             Controls.Add(comboBoxAssignedTo);

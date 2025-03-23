@@ -41,6 +41,7 @@
             // 
             // dataGridViewSponsors
             // 
+            dataGridViewSponsors.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             dataGridViewSponsors.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewSponsors.Location = new Point(1, -2);
             dataGridViewSponsors.Name = "dataGridViewSponsors";
@@ -90,9 +91,7 @@
             btnAdd.TabIndex = 5;
             btnAdd.Text = "Add sponsor ";
             btnAdd.UseVisualStyleBackColor = true;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
-
-
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnDelete
             // 
@@ -103,8 +102,7 @@
             btnDelete.TabIndex = 6;
             btnDelete.Text = "Delete sponsor ";
             btnDelete.UseVisualStyleBackColor = true;
-
-            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            btnDelete.Click += btnDelete_Click;
             // 
             // btnUpdate
             // 
@@ -115,12 +113,14 @@
             btnUpdate.TabIndex = 7;
             btnUpdate.Text = "Update sponsor ";
             btnUpdate.UseVisualStyleBackColor = true;
-            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // SponsorManagement
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1668004507251_d282df882123;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(702, 413);
             Controls.Add(btnUpdate);
             Controls.Add(btnDelete);

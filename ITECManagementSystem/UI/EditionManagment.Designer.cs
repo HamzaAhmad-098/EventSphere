@@ -76,8 +76,9 @@
             // 
             // dgvEditions
             // 
-            dgvEditions.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dgvEditions.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             dgvEditions.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvEditions.GridColor = Color.AliceBlue;
             dgvEditions.Location = new Point(0, 308);
             dgvEditions.Name = "dgvEditions";
             dgvEditions.Size = new Size(683, 79);
@@ -141,6 +142,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.photo_1521811628991_7a3ea581f7d11;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(681, 388);
             Controls.Add(label3);
             Controls.Add(textBox2);

@@ -151,6 +151,7 @@
             // 
             // dataGridViewAllocations
             // 
+            dataGridViewAllocations.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             dataGridViewAllocations.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewAllocations.Location = new Point(1, 324);
             dataGridViewAllocations.Name = "dataGridViewAllocations";
@@ -162,6 +163,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.photo_1689749907651_fc3b68bdc184;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(667, 425);
             Controls.Add(dataGridViewAllocations);
             Controls.Add(btnDelete);

@@ -198,17 +198,20 @@
             // 
             // dataGridViewResults
             // 
+            dataGridViewResults.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             dataGridViewResults.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewResults.Location = new Point(2, 336);
             dataGridViewResults.Name = "dataGridViewResults";
             dataGridViewResults.Size = new Size(667, 157);
             dataGridViewResults.TabIndex = 16;
-            dataGridViewResults.CellContentClick += this.dataGridViewResults_CellContentClick;
+            dataGridViewResults.CellContentClick += dataGridViewResults_CellContentClick;
             // 
             // ResultManagement
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1668004507251_d282df882123;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(669, 493);
             Controls.Add(dataGridViewResults);
             Controls.Add(btnDeleteResult);

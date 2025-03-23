@@ -153,6 +153,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1664297751296_08177be1ce96;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(669, 448);
             Controls.Add(button2);
             Controls.Add(label4);

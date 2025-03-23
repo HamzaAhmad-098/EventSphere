@@ -110,7 +110,7 @@
             btnAddParticipant.TabIndex = 7;
             btnAddParticipant.Text = "Add Participant";
             btnAddParticipant.UseVisualStyleBackColor = true;
-            this.btnAddParticipant.Click += new System.EventHandler(this.btnAddParticipant_Click);
+            btnAddParticipant.Click += btnAddParticipant_Click;
             // 
             // btnSaveTeam
             // 
@@ -121,12 +121,14 @@
             btnSaveTeam.TabIndex = 8;
             btnSaveTeam.Text = "Save team";
             btnSaveTeam.UseVisualStyleBackColor = true;
-            this.btnSaveTeam.Click += new System.EventHandler(this.btnSaveTeam_Click);
+            btnSaveTeam.Click += btnSaveTeam_Click;
             // 
             // TeamRegistrationForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.photo_1521811628991_7a3ea581f7d11;
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(724, 450);
             Controls.Add(btnSaveTeam);
             Controls.Add(btnAddParticipant);

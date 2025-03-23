@@ -28,222 +28,224 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EventManagement));
-            this.dataGridViewEvents = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtEventName = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.txtDescription = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.dateTimePickerEventDate = new System.Windows.Forms.DateTimePicker();
-            this.label7 = new System.Windows.Forms.Label();
-            this.btnAdd = new System.Windows.Forms.Button();
-            this.btnUpdate = new System.Windows.Forms.Button();
-            this.btnDelete = new System.Windows.Forms.Button();
-            this.comboBoxEdition = new System.Windows.Forms.ComboBox();
-            this.comboBoxVenue = new System.Windows.Forms.ComboBox();
-            this.comboBoxCommittee = new System.Windows.Forms.ComboBox();
-            this.comboBoxCategory = new System.Windows.Forms.ComboBox();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEvents)).BeginInit();
-            this.SuspendLayout();
+            dataGridViewEvents = new DataGridView();
+            label1 = new Label();
+            txtEventName = new TextBox();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
+            txtDescription = new TextBox();
+            label6 = new Label();
+            dateTimePickerEventDate = new DateTimePicker();
+            label7 = new Label();
+            btnAdd = new Button();
+            btnUpdate = new Button();
+            btnDelete = new Button();
+            comboBoxEdition = new ComboBox();
+            comboBoxVenue = new ComboBox();
+            comboBoxCommittee = new ComboBox();
+            comboBoxCategory = new ComboBox();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewEvents).BeginInit();
+            SuspendLayout();
             // 
             // dataGridViewEvents
             // 
-            this.dataGridViewEvents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewEvents.Location = new System.Drawing.Point(12, 280);
-            this.dataGridViewEvents.Name = "dataGridViewEvents";
-            this.dataGridViewEvents.Size = new System.Drawing.Size(680, 150);
-            this.dataGridViewEvents.TabIndex = 0;
-            this.dataGridViewEvents.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewEvents_CellClick);
+            dataGridViewEvents.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridViewEvents.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewEvents.Location = new Point(1, 298);
+            dataGridViewEvents.Name = "dataGridViewEvents";
+            dataGridViewEvents.Size = new Size(706, 150);
+            dataGridViewEvents.TabIndex = 0;
+            dataGridViewEvents.CellClick += dataGridViewEvents_CellClick;
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label1.Location = new System.Drawing.Point(30, 20);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(111, 21);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "ITEC Edition";
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 12F);
+            label1.Location = new Point(30, 20);
+            label1.Name = "label1";
+            label1.Size = new Size(92, 21);
+            label1.TabIndex = 1;
+            label1.Text = "ITEC Edition";
             // 
             // txtEventName
             // 
-            this.txtEventName.Location = new System.Drawing.Point(30, 130);
-            this.txtEventName.Name = "txtEventName";
-            this.txtEventName.Size = new System.Drawing.Size(150, 23);
-            this.txtEventName.TabIndex = 2;
+            txtEventName.Location = new Point(30, 130);
+            txtEventName.Name = "txtEventName";
+            txtEventName.Size = new Size(150, 23);
+            txtEventName.TabIndex = 2;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label2.Location = new System.Drawing.Point(30, 100);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(94, 21);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Event Name";
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 12F);
+            label2.Location = new Point(30, 100);
+            label2.Name = "label2";
+            label2.Size = new Size(94, 21);
+            label2.TabIndex = 3;
+            label2.Text = "Event Name";
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label3.Location = new System.Drawing.Point(210, 20);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(53, 21);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Venue";
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 12F);
+            label3.Location = new Point(210, 20);
+            label3.Name = "label3";
+            label3.Size = new Size(53, 21);
+            label3.TabIndex = 4;
+            label3.Text = "Venue";
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label4.Location = new System.Drawing.Point(30, 220);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 21);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "Description";
+            label4.AutoSize = true;
+            label4.Font = new Font("Segoe UI", 12F);
+            label4.Location = new Point(30, 220);
+            label4.Name = "label4";
+            label4.Size = new Size(89, 21);
+            label4.TabIndex = 5;
+            label4.Text = "Description";
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label5.Location = new System.Drawing.Point(30, 160);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(123, 21);
-            this.label5.TabIndex = 6;
-            this.label5.Text = "Category Name";
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 12F);
+            label5.Location = new Point(30, 160);
+            label5.Name = "label5";
+            label5.Size = new Size(119, 21);
+            label5.TabIndex = 6;
+            label5.Text = "Category Name";
             // 
             // txtDescription
             // 
-            this.txtDescription.Location = new System.Drawing.Point(30, 240);
-            this.txtDescription.Name = "txtDescription";
-            this.txtDescription.Size = new System.Drawing.Size(150, 23);
-            this.txtDescription.TabIndex = 7;
+            txtDescription.Location = new Point(30, 240);
+            txtDescription.Name = "txtDescription";
+            txtDescription.Size = new Size(150, 23);
+            txtDescription.TabIndex = 7;
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label6.Location = new System.Drawing.Point(210, 100);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(87, 21);
-            this.label6.TabIndex = 8;
-            this.label6.Text = "Committee";
+            label6.AutoSize = true;
+            label6.Font = new Font("Segoe UI", 12F);
+            label6.Location = new Point(210, 100);
+            label6.Name = "label6";
+            label6.Size = new Size(87, 21);
+            label6.TabIndex = 8;
+            label6.Text = "Committee";
             // 
             // dateTimePickerEventDate
             // 
-            this.dateTimePickerEventDate.Location = new System.Drawing.Point(210, 180);
-            this.dateTimePickerEventDate.Name = "dateTimePickerEventDate";
-            this.dateTimePickerEventDate.Size = new System.Drawing.Size(200, 23);
-            this.dateTimePickerEventDate.TabIndex = 9;
+            dateTimePickerEventDate.Location = new Point(210, 180);
+            dateTimePickerEventDate.Name = "dateTimePickerEventDate";
+            dateTimePickerEventDate.Size = new Size(200, 23);
+            dateTimePickerEventDate.TabIndex = 9;
             // 
             // label7
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.label7.Location = new System.Drawing.Point(210, 160);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(84, 21);
-            this.label7.TabIndex = 10;
-            this.label7.Text = "Event Date";
+            label7.AutoSize = true;
+            label7.Font = new Font("Segoe UI", 12F);
+            label7.Location = new Point(210, 160);
+            label7.Name = "label7";
+            label7.Size = new Size(84, 21);
+            label7.TabIndex = 10;
+            label7.Text = "Event Date";
             // 
             // btnAdd
             // 
-            this.btnAdd.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.btnAdd.Location = new System.Drawing.Point(210, 220);
-            this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(104, 26);
-            this.btnAdd.TabIndex = 11;
-            this.btnAdd.Text = "Add Event";
-            this.btnAdd.UseVisualStyleBackColor = true;
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            btnAdd.Font = new Font("Segoe UI", 12F);
+            btnAdd.Location = new Point(210, 220);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(104, 26);
+            btnAdd.TabIndex = 11;
+            btnAdd.Text = "Add Event";
+            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.btnUpdate.Location = new System.Drawing.Point(350, 220);
-            this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(121, 26);
-            this.btnUpdate.TabIndex = 12;
-            this.btnUpdate.Text = "Update Event";
-            this.btnUpdate.UseVisualStyleBackColor = true;
-            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
+            btnUpdate.Font = new Font("Segoe UI", 12F);
+            btnUpdate.Location = new Point(350, 220);
+            btnUpdate.Name = "btnUpdate";
+            btnUpdate.Size = new Size(121, 26);
+            btnUpdate.TabIndex = 12;
+            btnUpdate.Text = "Update Event";
+            btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 
-            this.btnDelete.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.btnDelete.Location = new System.Drawing.Point(520, 220);
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(104, 26);
-            this.btnDelete.TabIndex = 13;
-            this.btnDelete.Text = "Delete Event";
-            this.btnDelete.UseVisualStyleBackColor = true;
-            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            btnDelete.Font = new Font("Segoe UI", 12F);
+            btnDelete.Location = new Point(520, 220);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(104, 26);
+            btnDelete.TabIndex = 13;
+            btnDelete.Text = "Delete Event";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // comboBoxEdition
             // 
-            this.comboBoxEdition.FormattingEnabled = true;
-            this.comboBoxEdition.Location = new System.Drawing.Point(30, 50);
-            this.comboBoxEdition.Name = "comboBoxEdition";
-            this.comboBoxEdition.Size = new System.Drawing.Size(121, 23);
-            this.comboBoxEdition.TabIndex = 14;
+            comboBoxEdition.FormattingEnabled = true;
+            comboBoxEdition.Location = new Point(30, 50);
+            comboBoxEdition.Name = "comboBoxEdition";
+            comboBoxEdition.Size = new Size(121, 23);
+            comboBoxEdition.TabIndex = 14;
             // 
             // comboBoxVenue
             // 
-            this.comboBoxVenue.FormattingEnabled = true;
-            this.comboBoxVenue.Location = new System.Drawing.Point(210, 50);
-            this.comboBoxVenue.Name = "comboBoxVenue";
-            this.comboBoxVenue.Size = new System.Drawing.Size(121, 23);
-            this.comboBoxVenue.TabIndex = 15;
+            comboBoxVenue.FormattingEnabled = true;
+            comboBoxVenue.Location = new Point(210, 50);
+            comboBoxVenue.Name = "comboBoxVenue";
+            comboBoxVenue.Size = new Size(121, 23);
+            comboBoxVenue.TabIndex = 15;
             // 
             // comboBoxCommittee
             // 
-            this.comboBoxCommittee.FormattingEnabled = true;
-            this.comboBoxCommittee.Location = new System.Drawing.Point(210, 130);
-            this.comboBoxCommittee.Name = "comboBoxCommittee";
-            this.comboBoxCommittee.Size = new System.Drawing.Size(121, 23);
-            this.comboBoxCommittee.TabIndex = 16;
+            comboBoxCommittee.FormattingEnabled = true;
+            comboBoxCommittee.Location = new Point(210, 130);
+            comboBoxCommittee.Name = "comboBoxCommittee";
+            comboBoxCommittee.Size = new Size(121, 23);
+            comboBoxCommittee.TabIndex = 16;
             // 
             // comboBoxCategory
             // 
-            this.comboBoxCategory.FormattingEnabled = true;
-            this.comboBoxCategory.Location = new System.Drawing.Point(30, 190);
-            this.comboBoxCategory.Name = "comboBoxCategory";
-            this.comboBoxCategory.Size = new System.Drawing.Size(121, 23);
-            this.comboBoxCategory.TabIndex = 17;
+            comboBoxCategory.FormattingEnabled = true;
+            comboBoxCategory.Location = new Point(30, 190);
+            comboBoxCategory.Name = "comboBoxCategory";
+            comboBoxCategory.Size = new Size(121, 23);
+            comboBoxCategory.TabIndex = 17;
             // 
             // EventManagement
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(705, 450);
-            this.Controls.Add(this.comboBoxCategory);
-            this.Controls.Add(this.comboBoxCommittee);
-            this.Controls.Add(this.comboBoxVenue);
-            this.Controls.Add(this.comboBoxEdition);
-            this.Controls.Add(this.btnDelete);
-            this.Controls.Add(this.btnUpdate);
-            this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.dateTimePickerEventDate);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtDescription);
-            this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtEventName);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.dataGridViewEvents);
-            this.Name = "EventManagement";
-            this.Text = "Event Management";
-            this.Load += new System.EventHandler(this.EventManagement_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewEvents)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.premium_photo_1664297751296_08177be1ce96;
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(705, 450);
+            Controls.Add(comboBoxCategory);
+            Controls.Add(comboBoxCommittee);
+            Controls.Add(comboBoxVenue);
+            Controls.Add(comboBoxEdition);
+            Controls.Add(btnDelete);
+            Controls.Add(btnUpdate);
+            Controls.Add(btnAdd);
+            Controls.Add(label7);
+            Controls.Add(dateTimePickerEventDate);
+            Controls.Add(label6);
+            Controls.Add(txtDescription);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(txtEventName);
+            Controls.Add(label1);
+            Controls.Add(dataGridViewEvents);
+            Name = "EventManagement";
+            Text = "Event Management";
+            Load += EventManagement_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridViewEvents).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

@@ -39,6 +39,7 @@
             // 
             // dataGridViewPayments
             // 
+            dataGridViewPayments.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             dataGridViewPayments.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridViewPayments.Location = new Point(2, 192);
             dataGridViewPayments.Name = "dataGridViewPayments";

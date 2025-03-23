@@ -117,4 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="photo-1521811628991-7a3ea581f7d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\photo-1521811628991-7a3ea581f7d1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="photo-1499711860525-c485eb341d5e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\photo-1499711860525-c485eb341d5e.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="premium_photo-1664297751296-08177be1ce96" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\premium_photo-1664297751296-08177be1ce96.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="premium_photo-1668004507251-d282df882123" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\premium_photo-1668004507251-d282df882123.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="photo-1689749907651-fc3b68bdc184" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\photo-1689749907651-fc3b68bdc184.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="photo-1521811628991-7a3ea581f7d11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\photo-1521811628991-7a3ea581f7d11.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

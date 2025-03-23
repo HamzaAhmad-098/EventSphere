@@ -9,7 +9,20 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="resources\" />
+    <None Remove="UI\resources\210975.jpg" />
+    <None Remove="UI\resources\photo-1499711860525-c485eb341d5e.jpeg" />
+    <None Remove="UI\resources\photo-1689749907651-fc3b68bdc184.jpeg" />
+    <None Remove="UI\resources\premium_photo-1668004507251-d282df882123.jpeg" />
+    <None Remove="UI\resources\premium_photo-1681426687411-21986b0626a8.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="UI\resources\210975.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\resources\photo-1499711860525-c485eb341d5e.jpeg" />
+    <EmbeddedResource Include="UI\resources\premium_photo-1668004507251-d282df882123.jpeg" />
+    <EmbeddedResource Include="UI\resources\premium_photo-1681426687411-21986b0626a8.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +30,10 @@
     <PackageReference Include="MySql.Data" Version="9.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="RestSharp" Version="112.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="UI\resources\photo-1689749907651-fc3b68bdc184.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
