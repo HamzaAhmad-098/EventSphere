@@ -37,7 +37,7 @@ namespace ITECManagementSystem.DL
                     MySqlCommand cmd2 = new MySqlCommand(insertRegistrationQuery, conn);
                     cmd2.Parameters.AddWithValue("@event_id", eventId);
                     cmd2.Parameters.AddWithValue("@participant_id", participantId);
-                    cmd2.Parameters.AddWithValue("@payment_status_id", 1);
+                    cmd2.Parameters.AddWithValue("@payment_status_id", 13);
                     cmd2.Parameters.AddWithValue("@fee_amount", feeAmount);
                     cmd2.ExecuteNonQuery();
                     return true;

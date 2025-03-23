@@ -15,11 +15,10 @@ namespace ITECManagementSystem
         {
             InitializeComponent();
         }
-
         private void FinancialManagement_Load(object sender, EventArgs e)
         {
-            LoadItecEditions();  
-            LoadEvents();       
+            LoadItecEditions();
+            LoadEvents();
             LoadTransactionTypes();
             LoadToEntityTypes();
             LoadFromEntityTypes();
@@ -29,7 +28,7 @@ namespace ITECManagementSystem
 
         private void LoadItecEditions()
         {
-            using (var conn = new MySql.Data.MySqlClient.MySqlConnection("server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;"))
+            using (var conn = new MySql.Data.MySqlClient.MySqlConnection("server=localhost;port=3306;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;"))
             {
                 conn.Open();
                 string query = "SELECT itec_id, year FROM itec_editions";
@@ -44,7 +43,7 @@ namespace ITECManagementSystem
 
         private void LoadEvents()
         {
-            using (var conn = new MySql.Data.MySqlClient.MySqlConnection("server=localhost;port=3306;database=dbmid;user=root;password=Vat02842@Vat02842@;"))
+            using (var conn = new MySql.Data.MySqlClient.MySqlConnection("server=localhost;port=3306;database=MidProjectDb;user=root;password=Vat02842@Vat02842@;"))
             {
                 conn.Open();
                 string query = "SELECT event_id, event_name FROM itec_events";
@@ -61,7 +60,7 @@ namespace ITECManagementSystem
             if (comboBoxFromEntityType.SelectedItem == null)
                 return;
             var selectedKvp = (KeyValuePair<int, string>)comboBoxFromEntityType.SelectedItem;
-            string entityType = selectedKvp.Value; 
+            string entityType = selectedKvp.Value;
 
             try
             {
@@ -96,8 +95,6 @@ namespace ITECManagementSystem
                 MessageBox.Show("Error loading To entities: " + ex.Message);
             }
         }
-
-
         private void btnRecordTransaction_Click(object sender, EventArgs e)
         {
             try
@@ -106,11 +103,11 @@ namespace ITECManagementSystem
                 {
                     ItecId = Convert.ToInt32(comboBoxItec.SelectedValue),
                     EventId = Convert.ToInt32(comboBoxEvent.SelectedValue),
-                    TypeId = Convert.ToInt32(comboBoxType.SelectedItem),  // your defined type value
+                    TypeId = ((KeyValuePair<int, string>)comboBoxType.SelectedItem).Key, // Fixed line
                     Amount = Convert.ToDecimal(txtAmount.Text),
-                    FromEntityType = comboBoxFromEntityType.SelectedItem.ToString(),
+                    FromEntityType = ((KeyValuePair<int, string>)comboBoxFromEntityType.SelectedItem).Value,
                     FromEntityId = Convert.ToInt32(comboBoxFromEntity.SelectedValue),
-                    ToEntityType = comboBoxToEntityType.SelectedItem.ToString(),
+                    ToEntityType = ((KeyValuePair<int, string>)comboBoxToEntityType.SelectedItem).Value,
                     ToEntityId = Convert.ToInt32(comboBoxToEntity.SelectedValue),
                     Description = txtTransactionDescription.Text,
                     DateRecorded = dateTimePickerDateRecorded.Value
@@ -127,21 +124,6 @@ namespace ITECManagementSystem
             }
         }
         private readonly LookupBL lookupBL = new LookupBL();
-
-        private void LoadTransactionTypes()
-        {
-            try
-            {
-                var types = lookupBL.GetLookupValues("TransactionType");
-                comboBoxType.DataSource = new BindingSource(types, null);
-                comboBoxType.DisplayMember = "Value";
-                comboBoxType.ValueMember = "Key";
-            }
-            catch (System.Exception ex)
-            {
-                MessageBox.Show("Error loading transaction types: " + ex.Message);
-            }
-        }
         private void LoadFromEntityTypes()
         {
             try
@@ -157,11 +139,26 @@ namespace ITECManagementSystem
             }
         }
 
+        private void LoadTransactionTypes()
+        {
+            try
+            {
+                var types = lookupBL.GetLookupValues("FinanceTypes");
+                comboBoxType.DataSource = new BindingSource(types, null);
+                comboBoxType.DisplayMember = "Value";
+                comboBoxType.ValueMember = "Key";
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show("Error loading transaction types: " + ex.Message);
+            }
+        }
+
         private void LoadToEntityTypes()
         {
             try
             {
-                var toTypes = lookupBL.GetLookupValues("FinanceTypes");
+                var toTypes = lookupBL.GetLookupValues("EntityTypes");
                 comboBoxToEntityType.DataSource = new BindingSource(toTypes, null);
                 comboBoxToEntityType.DisplayMember = "Value";
                 comboBoxToEntityType.ValueMember = "Key";

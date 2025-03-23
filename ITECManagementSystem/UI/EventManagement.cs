@@ -27,7 +27,7 @@ namespace ITECManagementSystem.UI
             {
                 List<ItechEdition> editions = eventBL.GetEditions();
                 comboBoxEdition.DataSource = editions;
-                comboBoxEdition.DisplayMember = "year"; 
+                comboBoxEdition.DisplayMember = "year "; 
                 comboBoxEdition.ValueMember = "ItecId";
                 List<EventCategory> categories = eventBL.GetEventCategories();
                 comboBoxCategory.DataSource = categories;

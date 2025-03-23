@@ -12,24 +12,23 @@ namespace ITECManagementSystem.DL
         {
             List<KeyValuePair<int, string>> entities = new List<KeyValuePair<int, string>>();
             string query = "";
-            switch (entityType.ToLower())
+            switch (entityType.ToLower()) // Convert to lowercase
             {
-                case "sponsor":
+                case "sponsor": // Lowercase
                     query = "SELECT sponsor_id, sponsor_name FROM sponsors";
                     break;
-                case "vendor":
+                case "vendor": // Lowercase
                     query = "SELECT vendor_id, vendor_name FROM vendors";
                     break;
-                case "committee":
+                case "committee": // Lowercase
                     query = "SELECT committee_id, committee_name FROM committees";
                     break;
-                case "user":
+                case "user": // Lowercase
                     query = "SELECT user_id, username FROM users";
                     break;
                 default:
                     throw new Exception("Invalid entity type.");
             }
-
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();
@@ -44,7 +43,7 @@ namespace ITECManagementSystem.DL
                     }
                 }
             }
-            return entities;
+                return entities;
         }
     }
 }

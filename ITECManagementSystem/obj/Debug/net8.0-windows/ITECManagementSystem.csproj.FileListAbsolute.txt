@@ -83,3 +83,4 @@ D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.Vend
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.EventManagement.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.DutyManagement.resources
 D:\DB\ITECManagementSystem\obj\Debug\net8.0-windows\ITECManagementSystem.UI.TeamRegistrationForm.resources
+D:\DB\ITECManagementSystem\bin\Debug\net8.0-windows\itextsharp.dll

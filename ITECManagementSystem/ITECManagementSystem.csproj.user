@@ -34,7 +34,7 @@
     <Compile Update="UI\Registration.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ReportGeneration.cs">
+    <Compile Update="UI\ReportGeneration.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="UI\ResultManagement.cs">

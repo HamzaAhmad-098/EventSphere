@@ -41,12 +41,12 @@
             timer1 = new System.Windows.Forms.Timer(components);
             timer2 = new System.Windows.Forms.Timer(components);
             panel1 = new Panel();
+            button6 = new Button();
             button1 = new Button();
-            button2 = new Button();
+            button5 = new Button();
             button3 = new Button();
             button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
+            button2 = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -94,7 +94,7 @@
             BtnCommitteeRoleManagement.Name = "BtnCommitteeRoleManagement";
             BtnCommitteeRoleManagement.Size = new Size(277, 35);
             BtnCommitteeRoleManagement.TabIndex = 5;
-            BtnCommitteeRoleManagement.Text = "Committee & Role Management";
+            BtnCommitteeRoleManagement.Text = "Committee Management";
             BtnCommitteeRoleManagement.UseVisualStyleBackColor = true;
             BtnCommitteeRoleManagement.Click += BtnCommitteeRoleManagement_Click;
             // 
@@ -123,7 +123,7 @@
             // BtnVenueAllocationConflictResolution
             // 
             BtnVenueAllocationConflictResolution.Font = new Font("Segoe UI", 10F);
-            BtnVenueAllocationConflictResolution.Location = new Point(20, 243);
+            BtnVenueAllocationConflictResolution.Location = new Point(20, 167);
             BtnVenueAllocationConflictResolution.Name = "BtnVenueAllocationConflictResolution";
             BtnVenueAllocationConflictResolution.Size = new Size(277, 32);
             BtnVenueAllocationConflictResolution.TabIndex = 8;
@@ -157,11 +157,11 @@
             panel1.BackColor = Color.Transparent;
             panel1.Controls.Add(button6);
             panel1.Controls.Add(button1);
+            panel1.Controls.Add(button2);
             panel1.Controls.Add(button5);
             panel1.Controls.Add(BtnItecEditionManagement);
             panel1.Controls.Add(button3);
             panel1.Controls.Add(button4);
-            panel1.Controls.Add(button2);
             panel1.Controls.Add(BtnAutomatedReportGeneration);
             panel1.Controls.Add(BtnEventResultsManagement);
             panel1.Controls.Add(BtnVenueAllocationConflictResolution);
@@ -174,10 +174,21 @@
             panel1.TabIndex = 10;
             panel1.Paint += panel1_Paint;
             // 
+            // button6
+            // 
+            button6.Font = new Font("Segoe UI", 10F);
+            button6.Location = new Point(20, 471);
+            button6.Name = "button6";
+            button6.Size = new Size(277, 30);
+            button6.TabIndex = 14;
+            button6.Text = "Vendor Management ";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 10F);
-            button1.Location = new Point(20, 357);
+            button1.Location = new Point(20, 243);
             button1.Name = "button1";
             button1.Size = new Size(277, 32);
             button1.TabIndex = 10;
@@ -185,21 +196,21 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click_1;
             // 
-            // button2
+            // button5
             // 
-            button2.Font = new Font("Segoe UI", 10F);
-            button2.Location = new Point(20, 169);
-            button2.Name = "button2";
-            button2.Size = new Size(277, 30);
-            button2.TabIndex = 11;
-            button2.Text = "Fees tracking";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            button5.Font = new Font("Segoe UI", 10F);
+            button5.Location = new Point(20, 400);
+            button5.Name = "button5";
+            button5.Size = new Size(277, 32);
+            button5.TabIndex = 13;
+            button5.Text = "Sponsor Management";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button3
             // 
             button3.Font = new Font("Segoe UI", 10F);
-            button3.Location = new Point(20, 395);
+            button3.Location = new Point(20, 357);
             button3.Name = "button3";
             button3.Size = new Size(277, 32);
             button3.TabIndex = 11;
@@ -218,27 +229,16 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
-            // button5
+            // button2
             // 
-            button5.Font = new Font("Segoe UI", 10F);
-            button5.Location = new Point(20, 433);
-            button5.Name = "button5";
-            button5.Size = new Size(277, 32);
-            button5.TabIndex = 13;
-            button5.Text = "Sponsor Management";
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += button5_Click;
-            // 
-            // button6
-            // 
-            button6.Font = new Font("Segoe UI", 10F);
-            button6.Location = new Point(20, 471);
-            button6.Name = "button6";
-            button6.Size = new Size(277, 30);
-            button6.TabIndex = 14;
-            button6.Text = "Vendor Management ";
-            button6.UseVisualStyleBackColor = true;
-            button6.Click += button6_Click;
+            button2.Font = new Font("Segoe UI", 10F);
+            button2.Location = new Point(20, 438);
+            button2.Name = "button2";
+            button2.Size = new Size(277, 30);
+            button2.TabIndex = 11;
+            button2.Text = "Fees tracking";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // Form1
             // 
