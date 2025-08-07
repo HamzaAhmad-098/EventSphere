@@ -48,3 +48,31 @@ ITECManagementSystem/
 ├── M1.txt.txt # Initial notes
 ├── Project Report.docx # Full documentation
 ├── Project Report.pdf # Exported PDF report
+
+
+---
+
+## 🧪 Technologies Used
+
+| Tech Stack       | Description                        |
+|------------------|------------------------------------|
+| C# (WinForms)    | Desktop GUI & logic                |
+| MySQL            | Relational Database                |
+| iTextSharp       | PDF report generation              |
+| ADO.NET          | Database connection & CRUD         |
+| .NET 8           | Runtime framework                  |
+
+---
+
+## ⚙️ Setup Instructions
+
+### Prerequisites
+- Visual Studio 2022+
+- MySQL Server & MySQL Workbench
+- .NET 8 SDK
+
+### Clone & Run
+
+```bash
+git clone https://github.com/YourUsername/ITECManagementSystem.git
+cd ITECManagementSystem
