@@ -58,6 +58,7 @@ ITECManagementSystem/
 |------------------|------------------------------------|
 | C# (WinForms)    | Desktop GUI & logic                |
 | MySQL            | Relational Database                |
+| OOP              | Three tier Architecture(UI,BL,DL)  |
 | iTextSharp       | PDF report generation              |
 | ADO.NET          | Database connection & CRUD         |
 | .NET 8           | Runtime framework                  |
@@ -126,6 +127,12 @@ This project showcases real-world database integration, user management, role-ba
 2. Backend Developer
 3. Full Stack Developer
 4. .NET Developer
+## 📫 Contact
+
+If you’d like to reach out or collaborate:
+
+- 📧 Email: [jhajji1223@gmail.com](mailto:jhajji1223@gmail.com)
+- 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
 
 📌 License
 This project is for educational use. All rights reserved.
