@@ -49,7 +49,7 @@ ITECManagementSystem/
 ├── Project Report.docx # Full documentation
 ├── Project Report.pdf # Exported PDF report
 
-
+```
 ---
 
 ## 🧪 Technologies Used
