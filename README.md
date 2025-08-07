@@ -76,6 +76,7 @@ ITECManagementSystem/
 ```bash
 git clone https://github.com/YourUsername/ITECManagementSystem.git
 cd ITECManagementSystem
+```
 Open the .sln file in Visual Studio.
 
 Restore NuGet packages if not auto-restored.
