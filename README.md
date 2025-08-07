@@ -29,7 +29,7 @@ This desktop-based application allows administrators to:
 ---
 
 ## 🧱 Project Structure
-
+```text
 ITECManagementSystem/
 │
 ├── .vs/ # Visual Studio config
