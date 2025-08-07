@@ -111,13 +111,19 @@ UI Screenshots
 🙋‍♂️ Author
 Hamza Ahmad
 📘 BS Computer Science (2nd Year)
+
 📍 UET Lahore
+
 ✉️ GitHub: HamzaAhmad-098
 
 🌐 Future Improvements
+
 Switch to .NET MAUI for cross-platform
+
 Cloud MySQL hosting support
+
 Event Notifications (Email/SMS)
+
 Role-based analytics dashboard
 
 ⭐ Why This Project Matters
