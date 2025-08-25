@@ -94,7 +94,7 @@ Reports are auto-generated using iTextSharp as PDFs:
    
 Summary Finance Sheets
 
-📚 Documentation
+# 📚 Documentation
 Full project documentation available in:
 
 📄 Project Report.docx
@@ -108,17 +108,17 @@ Module Descriptions
 DB Schema
 UI Screenshots
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 
 Hamza Ahmad
 
-📘 BS Computer Science (2nd Year)
+# 📘 BS Computer Science (2nd Year)
 
 📍 UET Lahore
 
 ✉️ GitHub: HamzaAhmad-098
 
-🌐 Future Improvements
+# 🌐 Future Improvements
 
 Switch to .NET MAUI for cross-platform
 
@@ -128,7 +128,7 @@ Event Notifications (Email/SMS)
 
 Role-based analytics dashboard
 
-⭐ Why This Project Matters
+# ⭐ Why This Project Matters
 This project showcases real-world database integration, user management, role-based access control, UI design, and layered software architecture — all highly valuable for roles like:
 
 1. Software Engineer
