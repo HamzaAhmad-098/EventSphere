@@ -140,7 +140,7 @@ This project showcases real-world database integration, user management, role-ba
 If you’d like to reach out or collaborate:
 
 - 📧 Email: [HamzaxDevelopers](mailto:hamzaxdevelopers1223@gmail.com)
-- 🌐 Portfolio: [https://portfolio.hamzaxdevelopers.dpdns.org](https://portfolio.hamzaxdevelopers.dpdns.org) 
+- 🌐 Portfolio: [https://hamzaahmad-098.github.io/Portfolio/](https://hamzaahmad-098.github.io/Portfolio/) 
 
 📌 License
 This project is for educational use. All rights reserved.
